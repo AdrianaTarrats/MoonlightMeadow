@@ -94,12 +94,11 @@ public class StoryController : MonoBehaviour
                 FindAndEnableNPC(beat.npcID);
             if (beat.type == StoryBeatType.UnlockRepair)
                 UnlockReparable(beat.repairID);
-            if (beat.type == StoryBeatType.ShowCredits)
-                CreditsController.Instance?.ShowCredits();
         }
 
         // Resume execution from the saved beat (GiveQuest will wait for completion in Update).
-        ExecuteCurrentBeat();
+        if (!GameController.GameCompleted)
+            ExecuteCurrentBeat();
     }
 
     public int GetCurrentBeatIndex() => currentBeatIndex;

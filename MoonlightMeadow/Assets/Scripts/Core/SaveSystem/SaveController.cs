@@ -58,6 +58,9 @@ public class SaveController : MonoBehaviour
         await Awaitable.NextFrameAsync(); // let Cinemachine process new position/confiner
         if (ScreenFader.Instance != null)
             await ScreenFader.Instance.FadeIn();
+
+        if (GameController.GameCompleted)
+            CreditsController.Instance?.ShowCredits();
     }
 
     private void InitializeZoneMusic()
@@ -183,10 +186,7 @@ public class SaveController : MonoBehaviour
                 DialogueSequenceController.Instance.LoadDialogueSequenceStates(saveData.npcDialogueStates);
 
             if (saveData.gameCompleted)
-            {
                 GameController.GameCompleted = true;
-                CreditsController.Instance?.ShowCredits();
-            }
         }
         else
         {

@@ -91,6 +91,7 @@ public class SleepController : MonoBehaviour
         if (ScreenFader.Instance != null)
             await ScreenFader.Instance.FadeIn(fadeDuration);
 
+        SaveController.Instance?.SaveGame();
         isSleeping = false;
     }
 

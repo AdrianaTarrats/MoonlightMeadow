@@ -27,6 +27,9 @@ public class CreditsController : MonoBehaviour
 
     public async void ShowCredits()
     {
+        GameController.GameCompleted = true;
+        SaveController.Instance?.SaveGame();
+
         if (ScreenFader.Instance != null)
             await ScreenFader.Instance.FadeOut();
 
