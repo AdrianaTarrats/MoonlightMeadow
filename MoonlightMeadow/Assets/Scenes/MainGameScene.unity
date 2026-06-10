@@ -1741,7 +1741,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d88cb3ab3d8cb7d478be343c0341b7bc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Reparable
-  reparableID: 
+  reparableID: heart
   brokenSprite: {fileID: -1953753533167200389, guid: a9ff5b24678e1da46bd562812d20d683, type: 3}
   repairedSprite: {fileID: -1126580151773130069, guid: 889a226d1b0baaa4199d26015db32007, type: 3}
   requirements:

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 30ffb1f4c59b26e4eb36326bb6050f71, type: 3}
   m_Name: S8_FinalQuests
   m_EditorClassIdentifier: Assembly-CSharp::StoryBeat
-  type: 0
+  type: 2
   speakerName: 
   speakerPortrait: {fileID: 0}
   speakerVoice: {fileID: 0}

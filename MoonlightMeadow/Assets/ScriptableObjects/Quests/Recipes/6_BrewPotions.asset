@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be6496680bf06164f885585da80ce78a, type: 3}
   m_Name: 6_BrewPotions
   m_EditorClassIdentifier: Assembly-CSharp::Quest
-  questID: Foundations of restoration._c6d52dc2-fade-446b-945d-882c42f9b32c
+  questID: Foundations of restoration._6ba59615-f154-4769-8b15-ed9a8232e2c5
   questName: Foundations of restoration.
   description: Brew the four restorative potions needed to create the Moonheart Elixir.
-  autoHandIn: 1
+  autoHandIn: 0
   objectives:
   - objectiveID: 200
     Description: Craft a Moondrop Tonic

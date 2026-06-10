@@ -107,21 +107,25 @@ public class ScreenFader : MonoBehaviour
     /// <param name="customDuration">Override the default fade duration in seconds, or null to use the inspector value.</param>
     public async Awaitable FadeIn(float? customDuration = null)
     {
+        bool wasPaused = PauseController.IsGamePaused;
         PauseController.SetPause(true);
         setDamping(Vector3.zero); // snap camera to target before the reveal
         await Fade(0f, customDuration);
         setDamping(originalDamping);
-        PauseController.SetPause(false);
+        if (!wasPaused)
+            PauseController.SetPause(false);
     }
 
     /// <summary>Fades the screen from transparent to opaque. Pauses the game during the fade.</summary>
     /// <param name="customDuration">Override the default fade duration in seconds, or null to use the inspector value.</param>
     public async Awaitable FadeOut(float? customDuration = null)
     {
+        bool wasPaused = PauseController.IsGamePaused;
         PauseController.SetPause(true);
         setDamping(Vector3.zero);
         await Fade(1f, customDuration);
-        PauseController.SetPause(false);
+        if (!wasPaused)
+            PauseController.SetPause(false);
     }
 
     void setDamping(Vector3 d)

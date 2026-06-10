@@ -17,7 +17,7 @@ MonoBehaviour:
   description: Selene has revealed the ancient potion once used by the Moonwardens
     to restore fading magic. Use the Enchanted table to correctly arrange the Moonheart
     Elixir recipe.
-  autoHandIn: 0
+  autoHandIn: 1
   objectives:
   - objectiveID: 
     Description: Write the Moonbloom Elixir recipe at the Enchanted Table.
