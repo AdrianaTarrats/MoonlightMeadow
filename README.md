@@ -5,6 +5,7 @@
 **A cozy farming RPG where magic and logic intertwine.**
 
 [![Download](https://img.shields.io/badge/▶%20Play%20Now-Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1uNygF7zHb4W5S8zGv4aqrPtIU5SoMrbF/view?usp=sharing)
+[![YouTube](https://img.shields.io/badge/▶%20Watch%20Gameplay-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=0jrEfyoA7Zg)
 
 
 </div>
