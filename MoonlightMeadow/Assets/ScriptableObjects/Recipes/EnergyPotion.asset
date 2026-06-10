@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58ee71a124eaea7449977c33d284cedc, type: 3}
+  m_Name: EnergyPotion
+  m_EditorClassIdentifier: Assembly-CSharp::Recipe
+  recipeId: 1
+  title: Emberroot Brew
+  totalTimesCrafted: 0
+  text: 'A warming brew that restores stamina and helps the body recover energy.
+
+
+    1.
+    Start the fire under the cauldron.
+
+    2.  Add 2 Potatoes to the brew.
+
+    3.
+    Add 1 Carrot to the brew.
+
+    4. Stir exactly 3 times.'
+  steps:
+  - nodeType: 0
+    itemID: 100
+    amount: 2
+    description: Use wood to start the fire.
+    ifElseBlock:
+      rid: -2
+    forBlock:
+      rid: -2
+  - nodeType: 0
+    itemID: 400
+    amount: 2
+    description: Add 2 Potatoes.
+    ifElseBlock:
+      rid: -2
+    forBlock:
+      rid: -2
+  - nodeType: 0
+    itemID: 401
+    amount: 1
+    description: Add 1 carrot.
+    ifElseBlock:
+      rid: -2
+    forBlock:
+      rid: -2
+  - nodeType: 3
+    itemID: 0
+    amount: 1
+    description: 
+    ifElseBlock:
+      rid: -2
+    forBlock:
+      rid: 3337471344242065488
+  resultItemID: 201
+  resultQuantity: 1
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+    - rid: 3337471344242065488
+      type: {class: RecipeForBlock, ns: , asm: Assembly-CSharp}
+      data:
+        iterations: 3
+        bodySteps:
+        - nodeType: 1
+          itemID: 0
+          amount: 1
+          description: Stir the brew.
+          ifElseBlock:
+            rid: -2
+          forBlock:
+            rid: -2

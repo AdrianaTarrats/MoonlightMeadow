@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a621783cb453147b01764dde5ed130, type: 3}
+  m_Name: R3_WriteRecipe
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialogue
+  dialogueLines:
+  - You've learned how recipes can follow patterns.
+  - But magic is rarely predictable.
+  - Sometimes a Moonwarden must adapt, depending on what ingredients are available.
+  - 'The Moonbloom Elixir can be brewed using either Pink Slime or Blue Slime. '
+  - The magic shifts slightly depending on which one is used, but both versions remain
+    stable.
+  - That is called a conditional recipe.
+  - As always, the first step is lighting the fire beneath the cauldron.
+  - No potion can properly form without heat to awaken the magic within the ingredients.
+  - This is where we add the Slime, Pink is best but Blue can also work...
+  - The final ingredient is a Star..
+  - Rosella's Shop in the Enchanted Forest sells the magical seeds you might need.
+  - And remember the stirring step.
+  - Even a single stir can change how magical ingredients bond together.
+  - Now... arrange the recipe yourself.
+  - Remember, first we light the fire.
+  - Then add either Pink Slime, if you have, or Blue Slime.
+  - The final ingredient is a Star.
+  - Stir the mixture once and you're done.
+  - Excellent. You understand now that recipes can adapt while still preserving their
+    structure.
+  - A Moonwarden must learn when to follow a path exactly...
+  - 'And when to bend with circumstance. '
+  autoProgressLines: 010101010101010101010101010001010100010100
+  endDialogueLines: 000000000000000000000000000100000001000000
+  goToNextDialogueOnLines: 000000000000000000000000000000000000000001
+  giveQuestOnLines: 000000000000000000000000000100000000000000
+  giveItemOnLines: 000000000000000000000000000000000000000000
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  questInProgressIndex: 14
+  questCompletedIndex: 18
+  quest: {fileID: 11400000, guid: affd8c3ee78b16644b48fd01e713a08e, type: 2}
+  itemIDsToGive: 
+  itemAmountsToGive: 
+  givesItem: 0

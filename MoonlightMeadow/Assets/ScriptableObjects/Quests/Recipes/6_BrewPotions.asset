@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be6496680bf06164f885585da80ce78a, type: 3}
+  m_Name: 6_BrewPotions
+  m_EditorClassIdentifier: Assembly-CSharp::Quest
+  questID: Foundations of restoration._c6d52dc2-fade-446b-945d-882c42f9b32c
+  questName: Foundations of restoration.
+  description: Brew the four restorative potions needed to create the Moonheart Elixir.
+  autoHandIn: 1
+  objectives:
+  - objectiveID: 200
+    Description: Craft a Moondrop Tonic
+    type: 1
+    requiredAmount: 1
+    currentAmount: 0
+    lastObservedInventoryCount: 0
+    recipeToUnlock: {fileID: 0}
+  - objectiveID: 201
+    Description: Craft an Everroot Brew
+    type: 1
+    requiredAmount: 1
+    currentAmount: 0
+    lastObservedInventoryCount: 0
+    recipeToUnlock: {fileID: 0}
+  - objectiveID: 202
+    Description: Craft a Moonbloom Elixir
+    type: 1
+    requiredAmount: 1
+    currentAmount: 0
+    lastObservedInventoryCount: 0
+    recipeToUnlock: {fileID: 0}
+  - objectiveID: 203
+    Description: Craft a Swiftstep Draught
+    type: 1
+    requiredAmount: 1
+    currentAmount: 0
+    lastObservedInventoryCount: 0
+    recipeToUnlock: {fileID: 0}
+  rewards: []

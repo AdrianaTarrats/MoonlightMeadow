@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a621783cb453147b01764dde5ed130, type: 3}
+  m_Name: 0_Intro
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialogue
+  dialogueLines:
+  - My dear,
+  - If you are reading this, then I have already gone where the moonlight carries
+    us all in the end...
+  - I know this cottage must seem strange to you now...
+  - Old. Forgotten. Perhaps even a burden. But it has been waiting for you longer
+    than you realize.
+  - The pendant I left you will guide you when the time is right. Trust it.
+  - And trust yourself, even when the nights grow unfamiliar.
+  - Beyond these walls lies a place tied to our family for generations.
+  - A place that needs gentle hands and a patient heart...
+  - I am sorry I could not tell you everything sooner. But the moon always reveals
+    what daylight hides.
+  - 'With all my love, Grandma Selene. '
+  autoProgressLines: 01010101010101010100
+  endDialogueLines: 00000000000000000001
+  goToNextDialogueOnLines: 0000
+  giveQuestOnLines: 00000000000000000000
+  giveItemOnLines: 00000000000000000000
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  questInProgressIndex: 0
+  questCompletedIndex: 0
+  quest: {fileID: 0}
+  itemIDsToGive: 00000000
+  itemAmountsToGive: 00000000
+  givesItem: 0

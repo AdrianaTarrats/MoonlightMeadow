@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a621783cb453147b01764dde5ed130, type: 3}
+  m_Name: R5_WriteRecipe
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialogue
+  dialogueLines:
+  - You've come far, dear.
+  - Every recipe you've learned until now has been preparing you for this one.
+  - The Moonheart Elixir was created by the first Moonwardens to restore weakened
+    magical lands.
+  - It is not made from raw ingredients alone.
+  - Instead, it combines completed brews, each carrying a different aspect of restoration.
+  - As always, the first step is lighting the fire under the cauldron.
+  - Even ancient magic requires a stable foundation.
+  - The Moondrop Tonic restores vitality.
+  - The Emberroot Brew restores strength and endurance.
+  - The Moonbloom Elixir nurtures growth.
+  - And the Swiftstep Draught carries adaptability and motion.
+  - Healing. Strength. Growth. Adaptation.
+  - The magical world cannot survive through one kind of magic alone.
+  - Balance is what allows it to endure.
+  - Now... let us see if the meadow still remembers.
+  - Remember the sequence carefully.
+  - First, light the fire under the cauldron.
+  - Then add the Moondrop Tonic, Emberroot Brew, Moonbloom Elixir, and finally the
+    Swiftstep Draught.
+  - You did it...
+  - For the first time in many years, the magic finally stands a chance....again.
+  autoProgressLines: 0101010101010101010101010101000101000101
+  endDialogueLines: 0000000000000000000000000000010000010000
+  goToNextDialogueOnLines: 0000000000000000000000000000000000000001
+  giveQuestOnLines: 0000000000000000000000000000010000000000
+  giveItemOnLines: 0000000000000000000000000000000000000000
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  questInProgressIndex: 15
+  questCompletedIndex: 18
+  quest: {fileID: 11400000, guid: d64431f8e88f0664cb33d5904c3f41e5, type: 2}
+  itemIDsToGive: 
+  itemAmountsToGive: 
+  givesItem: 0

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 122aafab4e04fe541b9364ea3710352b, type: 3}
+  m_Name: Slime_pink
+  m_EditorClassIdentifier: Assembly-CSharp::EntityData
+  hitsToKill: 2
+  chanceToHurtPlayer: 0.3
+  damageToPlayer: 1
+  movementPattern: 2
+  movementSpeed: 4
+  movementRange: 0.3
+  randomSpeedVariation: 0.2
+  randomRangeVariation: 0.1
+  enemySprite: {fileID: -6697945405905903292, guid: 62ae42804453f6748b075c684ec4fb5a, type: 3}
+  dropItemPrefab: {fileID: 1339501246119275447, guid: c3c997fd797aa9a42b9f01d75f5d5b25, type: 3}
+  dropAmount: 1
+  dropRadius: 0.5

@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a621783cb453147b01764dde5ed130, type: 3}
+  m_Name: BecomingAFarmer
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialogue
+  dialogueLines:
+  - Well now, there's a familiar face...
+  - Or... familiar enough.
+  - I'm Hal. I keep the market stocked around here.
+  - Seeds, produce, bits and pieces folks tend to need.
+  - Your grandmother had the finest garden I've ever seen.
+  - Could grow just about anything in that soil.
+  - Since you'll be staying at the cottage, you ought to know the basics too.
+  - Here, take this...
+  - A hoe for tilling soil, a watering can and some carrot seeds.
+  - Plant the seeds in softened ground, give them water every day, and they'll sprout
+    before long.
+  - Bring me a grown carrot once it's ready. No rush.
+  - Farming's best done patiently.
+  - Carrots won't grow overnight.
+  - Ah, now that's a healthy carrot. Not bad for a first harvest.
+  - Your grandmother would've smiled seeing this.
+  - Keep tending the garden and he land will start trusting you before long.
+  - Every good harvest starts with a single seed. Folk tend to forget that.
+  autoProgressLines: 0101010101010101010101000001010000
+  endDialogueLines: 0000000000000000000000010100000101
+  goToNextDialogueOnLines: 0000000000000000000000000000000001
+  giveQuestOnLines: 0000000000000000000001000000000000
+  giveItemOnLines: 0000000000000001000000000000000000
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  questInProgressIndex: 12
+  questCompletedIndex: 13
+  quest: {fileID: 11400000, guid: 5a8d4f92d291d6941984e7a2996af50f, type: 2}
+  itemIDsToGive: 03000000040000002d010000
+  itemAmountsToGive: 010000000100000001000000
+  givesItem: 1

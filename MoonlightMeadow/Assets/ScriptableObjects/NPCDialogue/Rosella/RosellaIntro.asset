@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a621783cb453147b01764dde5ed130, type: 3}
+  m_Name: RosellaIntro
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialogue
+  dialogueLines:
+  - Oh! A human actually walked in this time.
+  - Well... half-human-world, anyway.
+  - My name is Rosella. I sell magical seeds here. Infused black roses, stars...
+    the usual.
+  - Or, well, what's left... of the usual.
+  - Magic's gotten weaker over the years. Harder for crops to grow properly now.
+  - Harder for fairies to fly, too...
+  - Still! No point sulking about it all day.
+  - If you're really Selene's apprentice, you'll probably need seeds sooner or later.
+  - Just try not to kill them immediately with your pickaxe, alright?
+  autoProgressLines: 010101010101010101
+  endDialogueLines: 000000000000000000
+  goToNextDialogueOnLines: 000000000000000001
+  giveQuestOnLines: 000000000000000000
+  giveItemOnLines: 000000000000000000
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  questInProgressIndex: 0
+  questCompletedIndex: 0
+  quest: {fileID: 0}
+  itemIDsToGive: 
+  itemAmountsToGive: 
+  givesItem: 0

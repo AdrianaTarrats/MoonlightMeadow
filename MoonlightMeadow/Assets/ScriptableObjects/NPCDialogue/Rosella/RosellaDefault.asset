@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a621783cb453147b01764dde5ed130, type: 3}
+  m_Name: RosellaDefault
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialogue
+  dialogueLines:
+  - Magical crops are fussier than normal ones.
+  - They like moonlight almost as much as water.
+  autoProgressLines: 0100
+  endDialogueLines: 0001
+  goToNextDialogueOnLines: 0001
+  giveQuestOnLines: 0000
+  giveItemOnLines: 0000
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  questInProgressIndex: 0
+  questCompletedIndex: 0
+  quest: {fileID: 0}
+  itemIDsToGive: 
+  itemAmountsToGive: 
+  givesItem: 0

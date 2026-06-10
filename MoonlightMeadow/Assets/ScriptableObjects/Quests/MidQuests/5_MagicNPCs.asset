@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be6496680bf06164f885585da80ce78a, type: 3}
+  m_Name: 5_MagicNPCs
+  m_EditorClassIdentifier: Assembly-CSharp::Quest
+  questID: T_b7820c29-62a1-4933-b715-ea7615354f61
+  questName: Talk to the NPCs.
+  description: Talk to the magic NPCs.
+  autoHandIn: 1
+  objectives:
+  - objectiveID: William
+    Description: Talk to William
+    type: 4
+    requiredAmount: 1
+    currentAmount: 0
+    lastObservedInventoryCount: 0
+    recipeToUnlock: {fileID: 0}
+  - objectiveID: Kaela
+    Description: Talk to Kaela.
+    type: 4
+    requiredAmount: 1
+    currentAmount: 0
+    lastObservedInventoryCount: 0
+    recipeToUnlock: {fileID: 0}
+  - objectiveID: Rosella
+    Description: Talk to Rosella.
+    type: 4
+    requiredAmount: 1
+    currentAmount: 0
+    lastObservedInventoryCount: 0
+    recipeToUnlock: {fileID: 0}
+  - objectiveID: Brindle
+    Description: Talk to Brindle.
+    type: 4
+    requiredAmount: 1
+    currentAmount: 0
+    lastObservedInventoryCount: 0
+    recipeToUnlock: {fileID: 0}
+  rewards: []

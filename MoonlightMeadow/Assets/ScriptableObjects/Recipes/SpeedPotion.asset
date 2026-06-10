@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58ee71a124eaea7449977c33d284cedc, type: 3}
+  m_Name: SpeedPotion
+  m_EditorClassIdentifier: Assembly-CSharp::Recipe
+  recipeId: 3
+  title: Swiftstep Draught
+  totalTimesCrafted: 0
+  text: 'A light potion infused with celestial magic that temporarily increases movement
+    speed.
+
+
+    1. Start the fire under the cauldron.
+
+    2. Add either 2 Pumpkins
+    or 3 Turnips to the brew.
+
+    3. Add a Moonveil Rose.
+
+    4. Stir exactly 2
+    times.
+
+
+'
+  steps:
+  - nodeType: 0
+    itemID: 100
+    amount: 2
+    description: Use wood to start the fire.
+    ifElseBlock:
+      rid: -2
+    forBlock:
+      rid: -2
+  - nodeType: 2
+    itemID: 0
+    amount: 1
+    description: 
+    ifElseBlock:
+      rid: 3337471344242065491
+    forBlock:
+      rid: -2
+  - nodeType: 0
+    itemID: 406
+    amount: 1
+    description: Add 1 Moonveil Rose.
+    ifElseBlock:
+      rid: -2
+    forBlock:
+      rid: -2
+  - nodeType: 3
+    itemID: 0
+    amount: 1
+    description: 
+    ifElseBlock:
+      rid: -2
+    forBlock:
+      rid: 3337471344242065493
+  resultItemID: 203
+  resultQuantity: 1
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+    - rid: 3337471344242065491
+      type: {class: RecipeIfElseBlock, ns: , asm: Assembly-CSharp}
+      data:
+        condition:
+          rid: 3337471344242065492
+        thenSteps:
+        - nodeType: 0
+          itemID: 403
+          amount: 2
+          description: Add 2 Pumpkins.
+          ifElseBlock:
+            rid: -2
+          forBlock:
+            rid: -2
+        elseSteps:
+        - nodeType: 0
+          itemID: 405
+          amount: 3
+          description: Add 3 Turnip.
+          ifElseBlock:
+            rid: -2
+          forBlock:
+            rid: -2
+    - rid: 3337471344242065492
+      type: {class: RecipeCondition, ns: , asm: Assembly-CSharp}
+      data:
+        conditionType: 1
+        itemID: 403
+        requiredAmount: 2
+    - rid: 3337471344242065493
+      type: {class: RecipeForBlock, ns: , asm: Assembly-CSharp}
+      data:
+        iterations: 2
+        bodySteps:
+        - nodeType: 1
+          itemID: 0
+          amount: 1
+          description: Stir the brew.
+          ifElseBlock:
+            rid: -2
+          forBlock:
+            rid: -2

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30ffb1f4c59b26e4eb36326bb6050f71, type: 3}
+  m_Name: S8_FinalQuests
+  m_EditorClassIdentifier: Assembly-CSharp::StoryBeat
+  type: 0
+  speakerName: 
+  speakerPortrait: {fileID: 0}
+  speakerVoice: {fileID: 0}
+  speakerVoicePitch: 1
+  dialogues: []
+  quest: {fileID: 0}
+  npcID: Grandma
+  npcDialogues:
+  - {fileID: 11400000, guid: 589230996223a4a40a9830295eb8c3fc, type: 2}
+  - {fileID: 11400000, guid: 7e1b332280efad746b8d1d07b8c98024, type: 2}
+  - {fileID: 11400000, guid: 0d8656e5f017c1641bf4941fbe79bc23, type: 2}
+  repairID: 

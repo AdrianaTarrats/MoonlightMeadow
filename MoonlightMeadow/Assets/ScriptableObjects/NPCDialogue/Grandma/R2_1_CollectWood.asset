@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a621783cb453147b01764dde5ed130, type: 3}
+  m_Name: R2_1_CollectWood
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialogue
+  dialogueLines:
+  - You've learned how Moonwarden recipes follow a sequence.
+  - But many brews contain repeated actions.
+  - Rather than writing the same step over and over, Moonwardens learned to recognize
+    patterns within their recipes.
+  - The Emberroot Brew is a simple example of this.
+  - We'll begin the same way as always. Every potion requires a flame beneath the
+    cauldron.
+  - Bring me two pieces of wood.
+  - Every brew begins with fire, dear.
+  - Gather two wood for the cauldron.
+  - Good.
+  autoProgressLines: 010101010100010001
+  endDialogueLines: 000000000001000100
+  goToNextDialogueOnLines: 000000000000000001
+  giveQuestOnLines: 000000000001000000
+  giveItemOnLines: 000000000000000000
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  questInProgressIndex: 6
+  questCompletedIndex: 8
+  quest: {fileID: 11400000, guid: fcf377a360e1f4a45a1913f4a3733919, type: 2}
+  itemIDsToGive: 
+  itemAmountsToGive: 
+  givesItem: 0

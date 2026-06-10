@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a621783cb453147b01764dde5ed130, type: 3}
+  m_Name: R4_WriteRecipe
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialogue
+  dialogueLines:
+  - You now understand sequences, repeated actions, and conditional recipes.
+  - The next lesson is learning how those patterns work together.
+  - We are going to learn Moonbloom Elixir's recipe.
+  - As always, the first step is lighting the fire under the cauldron.
+  - Without proper flame. magical ingredients remain dormant.
+  - This brew can be made with either Pumpkin or Turnip.
+  - If you have 2 or more Pumpkins, add those.
+  - If not, 3 Turnips can make up for them.
+  - Different ingredients... same purpose.
+  - Then, a Moonveil Rose needs to be added.
+  - It blooms only beneath strong moonlight and carries powerful boosting properties.
+  - This recipe also requires stirring.
+  - Some mixtures need time to settle properly between ingredients
+  - Stirring more than once helps distribute the magic evenly through the brew, this
+    one needing two stirs.
+  - Now, try arranging the recipe yourself.
+  - Remember carefully.
+  - First, light the fire under the cauldron.
+  - Then add either 2 Pumpkins or 3 Turnips.
+  - Add a Moonveil Rose.
+  - Finish by stirring the brew two times.
+  - Wonderful!
+  - You combined different patterns within the same recipe.
+  - Not through memorizing alone...
+  - But through understanding how each step connects to the next.
+  autoProgressLines: 010101010101010101010101010100010101010001010101
+  endDialogueLines: 000000000000000000000000000001000000000100000000
+  goToNextDialogueOnLines: 000000000000000000000000000000000000000000000001
+  giveQuestOnLines: 000000000000000000000000000001000000000000000000
+  giveItemOnLines: 000000000000000000000000000000000000000000000000
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  questInProgressIndex: 15
+  questCompletedIndex: 20
+  quest: {fileID: 11400000, guid: a6b7474b438ed264490684295894e7f0, type: 2}
+  itemIDsToGive: 
+  itemAmountsToGive: 
+  givesItem: 0

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be6496680bf06164f885585da80ce78a, type: 3}
+  m_Name: 4_WriteEnergyRecipe
+  m_EditorClassIdentifier: Assembly-CSharp::Quest
+  questID: A repeated step._9a507d6b-a037-46aa-b604-b627e52805f6
+  questName: A repeated step.
+  description: You have gathered all the ingredients for the Emberroot Brew. Use
+    the Enchanted Table to write down the recipe, make sure that the steps are in
+    the correct order!
+  autoHandIn: 0
+  objectives:
+  - objectiveID: 
+    Description: Write the Emberroot Brew recipe at the Enchanted Table.
+    type: 2
+    requiredAmount: 0
+    currentAmount: 0
+    lastObservedInventoryCount: 0
+    recipeToUnlock: {fileID: 11400000, guid: f95a4bb25501c7f418748e36e6661efd, type: 2}
+  rewards: []

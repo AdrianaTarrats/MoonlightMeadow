@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be6496680bf06164f885585da80ce78a, type: 3}
+  m_Name: 4_WriteSpeedRecipe
+  m_EditorClassIdentifier: Assembly-CSharp::Quest
+  questID: Patterns within patterns_349d9a0c-2f3d-4aa6-9126-49eff3cabdcd
+  questName: Patterns within patterns
+  description: Selene has introduced a more advanced Moonwarden recipe. Use the Enchanted
+    table to correctly arrange the Swiftstep Draught.
+  autoHandIn: 0
+  objectives:
+  - objectiveID: 
+    Description: Write the Swiftstep Draught recipe at the Enchanted Table.
+    type: 2
+    requiredAmount: 0
+    currentAmount: 0
+    lastObservedInventoryCount: 0
+    recipeToUnlock: {fileID: 11400000, guid: b674c644abbc78843a2e6e8f8cd48dbf, type: 2}
+  rewards: []

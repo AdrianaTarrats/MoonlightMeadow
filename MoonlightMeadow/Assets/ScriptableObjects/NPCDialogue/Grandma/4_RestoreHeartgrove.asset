@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a621783cb453147b01764dde5ed130, type: 3}
+  m_Name: 4_RestoreHeartgrove
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialogue
+  dialogueLines:
+  - Now it must be returned to the Heartgrove deep within the Enchanted Forest.
+  - That place is the heart of the magical world bound to this meadow.
+  - For generations, Moonwardens protected it...
+  - But over time, the magic grew weaker than any of us realized.
+  - Go, dear. The forest is waiting.
+  - Bring the Moonheart Elixir to the Heartgrove.
+  - The meadow's future depends on it.
+  - You did it, dear. You restored the magic.
+  - I couldn't be more proud of you.
+  autoProgressLines: 010101010001000100
+  endDialogueLines: 000000000100000001
+  goToNextDialogueOnLines: 000000000000000001
+  giveQuestOnLines: 000000000100000000
+  giveItemOnLines: 000000000000000000
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  questInProgressIndex: 5
+  questCompletedIndex: 7
+  quest: {fileID: 11400000, guid: f3aa12fa59f9226428a394652d7e8f31, type: 2}
+  itemIDsToGive: 
+  itemAmountsToGive: 
+  givesItem: 0

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 122aafab4e04fe541b9364ea3710352b, type: 3}
+  m_Name: Spider
+  m_EditorClassIdentifier: Assembly-CSharp::EntityData
+  hitsToKill: 3
+  chanceToHurtPlayer: 0.3
+  damageToPlayer: 1
+  movementPattern: 1
+  movementSpeed: 1
+  movementRange: 0.6
+  randomSpeedVariation: 0.2
+  randomRangeVariation: 0.1
+  enemySprite: {fileID: 6729568911671580335, guid: 07ed0cee73ce64a44922018a62dc6562, type: 3}
+  dropItemPrefab: {fileID: 1339501246119275447, guid: 2e5d69ef0cf52854192a8a10751eb58a, type: 3}
+  dropAmount: 1
+  dropRadius: 0.5

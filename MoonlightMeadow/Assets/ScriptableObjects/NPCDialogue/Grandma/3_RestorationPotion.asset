@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a621783cb453147b01764dde5ed130, type: 3}
+  m_Name: 3_RestorationPotion
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialogue
+  dialogueLines:
+  - Now we can begin the Moonheart Elixir itself. This is the final Moonwarden recipe.
+  - Its purpose is to reconnect what has been weakened.
+  - The order matters. Balance must be built slowly, one piece at a time.
+  - The meadow has been waiting for someone willing to listen to it.
+  - Now... brew the elixir.
+  - Remember the sequence carefully.
+  - Each step is as important as the last one.
+  - You did it... The Elixir is finally ready...
+  autoProgressLines: 0101010100010001
+  endDialogueLines: 0000000001000100
+  goToNextDialogueOnLines: 0000000000000001
+  giveQuestOnLines: 0000000001000000
+  giveItemOnLines: 0000000000000000
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  questInProgressIndex: 5
+  questCompletedIndex: 7
+  quest: {fileID: 11400000, guid: 927cb143532a4ac408e410f117565b74, type: 2}
+  itemIDsToGive: 
+  itemAmountsToGive: 
+  givesItem: 0

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a621783cb453147b01764dde5ed130, type: 3}
+  m_Name: R2_3_CollectCarrot
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialogue
+  dialogueLines:
+  - One last ingredient remains... a Carrot.
+  - Bring one back, and we'll complete the brew.
+  - We still need a carrot to complete the brew.
+  - Perfect.
+  autoProgressLines: 01000001
+  endDialogueLines: 00010100
+  goToNextDialogueOnLines: 00000001
+  giveQuestOnLines: 00010000
+  giveItemOnLines: 00000000
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  questInProgressIndex: 2
+  questCompletedIndex: 3
+  quest: {fileID: 11400000, guid: 5e35b758817cd904c9e924182eb421f3, type: 2}
+  itemIDsToGive: 
+  itemAmountsToGive: 
+  givesItem: 0

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a621783cb453147b01764dde5ed130, type: 3}
+  m_Name: R1_2_CollectStrawberry
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialogue
+  dialogueLines:
+  - Now, the tonic itself requires two simple ingredients.
+  - First, a strawberry. Sweetness helps stabilize restorative magic.
+  - Bring one back when you can.
+  - If you need seeds, Hal has of various kinds in his shop.
+  - 'We still need a strawberry. '
+  - Even simple ingredients can carry strong restorative properties.
+  - Perfect.
+  - Strawberries help stabilize the tonic's healing properties.
+  autoProgressLines: 0101010000010101
+  endDialogueLines: 0000000100010000
+  goToNextDialogueOnLines: 0000000000000001
+  giveQuestOnLines: 0000000100000000
+  giveItemOnLines: 0000000000000000
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  questInProgressIndex: 4
+  questCompletedIndex: 6
+  quest: {fileID: 11400000, guid: adeb3c611ee4e304d80a0c792fc304e4, type: 2}
+  itemIDsToGive: 
+  itemAmountsToGive: 
+  givesItem: 0

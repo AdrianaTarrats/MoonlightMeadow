@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a621783cb453147b01764dde5ed130, type: 3}
+  m_Name: FinalDialogue
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialogue
+  dialogueLines:
+  - It's beautiful...
+  - I almost forgot the meadow could feel like this.
+  - You succeeded where generations of Moonwardens could not.
+  - Not because they failed. And not because they were weak.
+  - By the time they understood how fragile the magic had become, most were already
+    trying to preserve what little remained...
+  - But you arrived at the very end.
+  - You were willing to rebuild instead of simply protect.
+  - That is what finally saved the meadow.
+  - Everyone here is grateful for what you've done.
+  - The forest, the spirits... All of us.
+  - And no matter how far you wander from here...
+  - Moonlight Meadow will always welcome you home.
+  autoProgressLines: 010101010101010101010100
+  endDialogueLines: 000000000000000000000001
+  goToNextDialogueOnLines: 000000000000000000000000
+  giveQuestOnLines: 000000000000000000000000
+  giveItemOnLines: 000000000000000000000000
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  questInProgressIndex: 0
+  questCompletedIndex: 0
+  quest: {fileID: 0}
+  itemIDsToGive: 
+  itemAmountsToGive: 
+  givesItem: 0

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a621783cb453147b01764dde5ed130, type: 3}
+  m_Name: KaelaIntro
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialogue
+  dialogueLines:
+  - You're Selene's successor... aren't you?
+  - The moonlight around you feels familiar.
+  - I'm Kaela. I watch over the forest trails and gather what the land still offers.
+  - These woods were once full of life...
+  - Spirits danced between the trees, and the rivers shimmered bright enough to guide
+    travelers at night.
+  - Now the magic sleeps more often than it wakes.
+  - But the forest is still listening.
+  - If you care for it, it will answer in time.
+  autoProgressLines: 0101010101010101
+  endDialogueLines: 0000000000000000
+  goToNextDialogueOnLines: 0000000000000001
+  giveQuestOnLines: 0000000000000000
+  giveItemOnLines: 0000000000000000
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  questInProgressIndex: 0
+  questCompletedIndex: 0
+  quest: {fileID: 0}
+  itemIDsToGive: 
+  itemAmountsToGive: 
+  givesItem: 0

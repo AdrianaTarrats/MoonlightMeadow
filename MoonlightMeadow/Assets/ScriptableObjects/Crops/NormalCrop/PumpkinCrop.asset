@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5d3c692ee9969445bb269dafc5221a5, type: 3}
+  m_Name: PumpkinCrop
+  m_EditorClassIdentifier: Assembly-CSharp::CropData
+  cropName: Pumpkin
+  cropID: 403
+  isMagic: 0
+  daysPerStage: 010000000100000001000000010000000100000001000000
+  stagePrefabs:
+  - {fileID: 568373645311471965, guid: 160597d0ed9b4384b8b5f6fa6ae0703d, type: 3}
+  - {fileID: 568373645311471965, guid: d7addf1dd1d216245ac22940ac9023d2, type: 3}
+  - {fileID: 9059658830303526395, guid: 0068a7199b863844bbff74ca4798c080, type: 3}
+  - {fileID: 2001530907902821374, guid: 54527db6f84b1454cb049bb0f795f050, type: 3}
+  - {fileID: 2001530907902821374, guid: f18b8531b54c67340824010ff0a381c2, type: 3}
+  - {fileID: 2001530907902821374, guid: b4c83e25082b2a34abe829eb19cb0240, type: 3}
+  wateredStageSprites:
+  - {fileID: 340054852982238973, guid: d0647504ddfd14046954f539ef564d70, type: 3}
+  - {fileID: -3079993994392628905, guid: d0647504ddfd14046954f539ef564d70, type: 3}
+  - {fileID: 7987796798595635568, guid: d0647504ddfd14046954f539ef564d70, type: 3}
+  - {fileID: -4959523765816497394, guid: d0647504ddfd14046954f539ef564d70, type: 3}
+  - {fileID: 5695475646537225139, guid: d0647504ddfd14046954f539ef564d70, type: 3}
+  - {fileID: 3719553450816833443, guid: d0647504ddfd14046954f539ef564d70, type: 3}
+  harvestItemPrefab: {fileID: 1012293264553586956, guid: ebd8508bfb0e18e4582c509ebfd8a537, type: 3}
+  harvestAmount: 1

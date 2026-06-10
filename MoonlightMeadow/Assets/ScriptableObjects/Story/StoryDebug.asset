@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bba6c55ce84d5cd439a3bc00a734d74a, type: 3}
+  m_Name: StoryDebug
+  m_EditorClassIdentifier: Assembly-CSharp::StoryScript
+  beats:
+  - {fileID: 11400000, guid: b867636d121979242b64c8be90c77146, type: 2}
+  - {fileID: 11400000, guid: bb860ecf77c115c4c8735d82417ac1f7, type: 2}
+  - {fileID: 11400000, guid: 15f8d21c9b4e1c5409ede5b60459a2a7, type: 2}
+  - {fileID: 11400000, guid: b7ad213d66a18f340bae639b09ea079b, type: 2}

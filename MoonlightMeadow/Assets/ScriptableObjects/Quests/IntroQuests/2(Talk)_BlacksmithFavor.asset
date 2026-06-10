@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be6496680bf06164f885585da80ce78a, type: 3}
+  m_Name: 2(Talk)_BlacksmithFavor
+  m_EditorClassIdentifier: Assembly-CSharp::Quest
+  questID: A favor for the blacksmith_c6380dac-53e2-4a78-b8f8-db4f7580988c
+  questName: A favor for the blacksmith
+  description: Come talk to me for the details.
+  autoHandIn: 1
+  objectives:
+  - objectiveID: Hunter
+    Description: Talk to Hunter.
+    type: 4
+    requiredAmount: 1
+    currentAmount: 0
+    lastObservedInventoryCount: 0
+    recipeToUnlock: {fileID: 0}
+  rewards: []

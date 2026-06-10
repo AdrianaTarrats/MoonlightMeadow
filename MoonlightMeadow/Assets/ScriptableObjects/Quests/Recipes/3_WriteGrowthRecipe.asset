@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be6496680bf06164f885585da80ce78a, type: 3}
+  m_Name: 3_WriteGrowthRecipe
+  m_EditorClassIdentifier: Assembly-CSharp::Quest
+  questID: A conditional Reciepe_7bd8e548-8c44-4a18-9bc6-3172f1f7f294
+  questName: A conditional Recipe
+  description: Selene has introduced a recipe that can change depending on the available
+    ingredients.
+  autoHandIn: 0
+  objectives:
+  - objectiveID: 
+    Description: Write the Moonbloom Elixir recipe at the Enchanted Table.
+    type: 2
+    requiredAmount: 0
+    currentAmount: 0
+    lastObservedInventoryCount: 0
+    recipeToUnlock: {fileID: 11400000, guid: 56a43005dd7ea2e4f8cb8028d63dfe3e, type: 2}
+  rewards: []

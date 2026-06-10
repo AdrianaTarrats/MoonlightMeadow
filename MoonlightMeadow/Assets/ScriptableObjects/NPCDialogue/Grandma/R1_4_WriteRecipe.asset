@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a621783cb453147b01764dde5ed130, type: 3}
+  m_Name: R1_4_WriteRecipe
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialogue
+  dialogueLines:
+  - There is one more thing you must understand before brewing properly.
+  - Not every important step involves adding an ingredient.
+  - Most recipes require the mixture to be stirred a specific number of times.
+  - Stirring helps the magical properties blend together correctly.
+  - Without it, a potion may become unstable... or fail entirely.
+  - In this first recipe, stirring once is enough. But do so very carefully.
+  - Now we have everything we need for the recipe.
+  - You can use the enchanted table in this workshop to write everything down.
+  - Remember the order carefully, dear.
+  - First, light the fire.
+  - Then add a Strawberry.
+  - The last ingredient is 2 Bat wings.
+  - And finally, stir carefully.
+  - Well done!
+  - Recipes are more than ingredients. They are instructions arranged with purpose.
+  - When the sequence is correct, the magic flows naturally through the brew.
+  - You've taken your first step as a Moonwarden.
+  autoProgressLines: 0101010101010101000101010001010101
+  endDialogueLines: 0000000000000000010000000100000000
+  goToNextDialogueOnLines: 0000000000000000000000000000000001
+  giveQuestOnLines: 0000000000000000010000000000000000
+  giveItemOnLines: 0000000000000000000000000000000000
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  questInProgressIndex: 9
+  questCompletedIndex: 13
+  quest: {fileID: 11400000, guid: ff2d5136f4067cc429ebb6571e7c6fc5, type: 2}
+  itemIDsToGive: 
+  itemAmountsToGive: 
+  givesItem: 0

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be6496680bf06164f885585da80ce78a, type: 3}
+  m_Name: 3_OldDoor
+  m_EditorClassIdentifier: Assembly-CSharp::Quest
+  questID: An Old Door_adb633e1-2c0d-4c03-ad12-4b74d176de16
+  questName: An Old Door
+  description: Inside the cottage is an old workshop with a torn down door. With
+    some leftover wood, you might be able to repair it and see what's inside. Perhaps
+    there's something your grandmother left behind...
+  autoHandIn: 1
+  objectives:
+  - objectiveID: magic_door
+    Description: Repair the broken door in your cottage using 2 Wood.
+    type: 5
+    requiredAmount: 1
+    currentAmount: 0
+    lastObservedInventoryCount: 0
+    recipeToUnlock: {fileID: 0}
+  rewards: []

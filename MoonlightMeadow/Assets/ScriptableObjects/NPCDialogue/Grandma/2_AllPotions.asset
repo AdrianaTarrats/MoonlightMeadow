@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a621783cb453147b01764dde5ed130, type: 3}
+  m_Name: 2_AllPotions
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialogue
+  dialogueLines:
+  - You've learned the old recipes well.
+  - But knowing a recipe is not enough.
+  - To create the Moonheart Elixir, the brews themselves must be prepared.
+  - Each potion carries a different aspect of restoration.
+  - Only when all four are complete can the final elixir be created.
+  - Take your time, dear.
+  - Moonwardens were never meant to rush their work.
+  - The final elixir requires all four restorative brews.
+  - Each one strengthens the magical world in a different way.
+  - Wonderful...
+  - You've gathered every piece needed for the final restoration.
+  autoProgressLines: 0101010101010001000101
+  endDialogueLines: 0000000000000100010000
+  goToNextDialogueOnLines: 0000000000000000000001
+  giveQuestOnLines: 0000000000000100000000
+  giveItemOnLines: 0000000000000000000000
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  questInProgressIndex: 7
+  questCompletedIndex: 9
+  quest: {fileID: 11400000, guid: e45644a8354830445aedec2175d7de23, type: 2}
+  itemIDsToGive: 
+  itemAmountsToGive: 
+  givesItem: 0

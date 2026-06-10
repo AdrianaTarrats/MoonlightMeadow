@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 122aafab4e04fe541b9364ea3710352b, type: 3}
+  m_Name: Bat
+  m_EditorClassIdentifier: Assembly-CSharp::EntityData
+  hitsToKill: 5
+  chanceToHurtPlayer: 0.3
+  damageToPlayer: 1
+  movementPattern: 0
+  movementSpeed: 2
+  movementRange: 1.5
+  randomSpeedVariation: 0.2
+  randomRangeVariation: 0.1
+  enemySprite: {fileID: -5426255703946388496, guid: 2633250ef16631440bb46d5ec21580e0, type: 3}
+  dropItemPrefab: {fileID: 1339501246119275447, guid: 5b8815d6a29750f47ac18bb70a8cc717, type: 3}
+  dropAmount: 2
+  dropRadius: 0.5

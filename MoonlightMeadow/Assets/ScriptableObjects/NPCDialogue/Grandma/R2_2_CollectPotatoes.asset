@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a621783cb453147b01764dde5ed130, type: 3}
+  m_Name: R2_2_CollectPotatoes
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialogue
+  dialogueLines:
+  - Now, the first ingredient is simple enough.
+  - We'll need Potatoes. Two of them.
+  - Bring them here, and I'll explain the rest.
+  - We still need two Potatoes for the Emberroot Brew.
+  - Even humble ingredients can hold useful magical properties.
+  - Perfect.
+  - A strong brew needs a stable foundation before more volatile ingredients can
+    be added.
+  autoProgressLines: 01010100010001
+  endDialogueLines: 00000100010000
+  goToNextDialogueOnLines: 00000000000001
+  giveQuestOnLines: 00000100000000
+  giveItemOnLines: 00000000000000
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  questInProgressIndex: 3
+  questCompletedIndex: 5
+  quest: {fileID: 11400000, guid: 7dcf36324ec8b0643a2131731cfb1422, type: 2}
+  itemIDsToGive: 
+  itemAmountsToGive: 
+  givesItem: 0

@@ -1,0 +1,6409 @@
+fileFormatVersion: 2
+guid: 356ebed139720a840885423274ec19ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3780585273336882668
+    second: Enchanted Facesets_0
+  - first:
+      213: 4707768706171332334
+    second: Enchanted Facesets_1
+  - first:
+      213: 2239559184822242690
+    second: Enchanted Facesets_2
+  - first:
+      213: 3114796513092674640
+    second: Enchanted Facesets_3
+  - first:
+      213: -9163205012761132345
+    second: Enchanted Facesets_4
+  - first:
+      213: 8630655956946076586
+    second: Enchanted Facesets_5
+  - first:
+      213: -653449334703178116
+    second: Enchanted Facesets_6
+  - first:
+      213: 3802203786885484400
+    second: Enchanted Facesets_7
+  - first:
+      213: 7027629564194789864
+    second: Enchanted Facesets_8
+  - first:
+      213: 7374381946984092369
+    second: Enchanted Facesets_9
+  - first:
+      213: 6855661824335551445
+    second: Enchanted Facesets_10
+  - first:
+      213: 3331399181219144141
+    second: Enchanted Facesets_11
+  - first:
+      213: 3943649965422484917
+    second: Enchanted Facesets_12
+  - first:
+      213: -1102680037689261510
+    second: Enchanted Facesets_13
+  - first:
+      213: -4235701492976545737
+    second: Enchanted Facesets_14
+  - first:
+      213: 8933637288691004624
+    second: Enchanted Facesets_15
+  - first:
+      213: -4461163579505527918
+    second: Enchanted Facesets_16
+  - first:
+      213: -6976726608795880543
+    second: Enchanted Facesets_17
+  - first:
+      213: -7787701504494578019
+    second: Enchanted Facesets_18
+  - first:
+      213: -8704490026842258243
+    second: Enchanted Facesets_19
+  - first:
+      213: -6815284334578371672
+    second: Enchanted Facesets_20
+  - first:
+      213: 241133214749677421
+    second: Enchanted Facesets_21
+  - first:
+      213: 2072167381926370826
+    second: Enchanted Facesets_22
+  - first:
+      213: -1968205403454142988
+    second: Enchanted Facesets_23
+  - first:
+      213: -8934448527636062900
+    second: Enchanted Facesets_24
+  - first:
+      213: -1949959365790016527
+    second: Enchanted Facesets_25
+  - first:
+      213: 2215477661050078297
+    second: Enchanted Facesets_26
+  - first:
+      213: 4904085730730678379
+    second: Enchanted Facesets_27
+  - first:
+      213: 3705988964874686033
+    second: Enchanted Facesets_28
+  - first:
+      213: 1780369561026618868
+    second: Enchanted Facesets_29
+  - first:
+      213: 5970597650421163183
+    second: Enchanted Facesets_30
+  - first:
+      213: 9150228393916364490
+    second: Enchanted Facesets_31
+  - first:
+      213: 3424434659378906837
+    second: Enchanted Facesets_32
+  - first:
+      213: 5518759101966750555
+    second: Enchanted Facesets_33
+  - first:
+      213: -440065197569643247
+    second: Enchanted Facesets_34
+  - first:
+      213: 1433939004383204471
+    second: Enchanted Facesets_35
+  - first:
+      213: 1290558412108742492
+    second: Enchanted Facesets_36
+  - first:
+      213: 6544657813019328984
+    second: Enchanted Facesets_37
+  - first:
+      213: 5166172470531179787
+    second: Enchanted Facesets_38
+  - first:
+      213: 6987381922560851144
+    second: Enchanted Facesets_39
+  - first:
+      213: 7630421200254232755
+    second: Enchanted Facesets_40
+  - first:
+      213: 6220419396608837140
+    second: Enchanted Facesets_41
+  - first:
+      213: 4729870565674508007
+    second: Enchanted Facesets_42
+  - first:
+      213: 1735466822789632390
+    second: Enchanted Facesets_43
+  - first:
+      213: 3191032795499312086
+    second: Enchanted Facesets_44
+  - first:
+      213: 5433481279794812545
+    second: Enchanted Facesets_45
+  - first:
+      213: -2857902828681159886
+    second: Enchanted Facesets_46
+  - first:
+      213: -6153128086434843936
+    second: Enchanted Facesets_47
+  - first:
+      213: 3558055984946434570
+    second: Enchanted Facesets_48
+  - first:
+      213: 7716911549470848663
+    second: Enchanted Facesets_49
+  - first:
+      213: -5208424996601517787
+    second: Enchanted Facesets_50
+  - first:
+      213: -8677048704831445942
+    second: Enchanted Facesets_51
+  - first:
+      213: -5315991095605090292
+    second: Enchanted Facesets_52
+  - first:
+      213: -4533696936589185814
+    second: Enchanted Facesets_53
+  - first:
+      213: 2997554975502329374
+    second: Enchanted Facesets_54
+  - first:
+      213: 6309677324971687161
+    second: Enchanted Facesets_55
+  - first:
+      213: -3049025995166676415
+    second: Enchanted Facesets_56
+  - first:
+      213: 6336073726532290154
+    second: Enchanted Facesets_57
+  - first:
+      213: 117283751953858087
+    second: Enchanted Facesets_58
+  - first:
+      213: -965722650682201681
+    second: Enchanted Facesets_59
+  - first:
+      213: -610288282422374817
+    second: Enchanted Facesets_60
+  - first:
+      213: 5431199900649139541
+    second: Enchanted Facesets_61
+  - first:
+      213: -9168462853077508199
+    second: Enchanted Facesets_62
+  - first:
+      213: 8178219835604618520
+    second: Enchanted Facesets_63
+  - first:
+      213: 407916443183197946
+    second: Enchanted Facesets_64
+  - first:
+      213: 7525704950385777667
+    second: Enchanted Facesets_65
+  - first:
+      213: 5151796094310449794
+    second: Enchanted Facesets_66
+  - first:
+      213: 7120801743812724149
+    second: Enchanted Facesets_67
+  - first:
+      213: -2632743868986636374
+    second: Enchanted Facesets_68
+  - first:
+      213: 6474658403150994091
+    second: Enchanted Facesets_69
+  - first:
+      213: -2541144078262928126
+    second: Enchanted Facesets_70
+  - first:
+      213: -124569286176390494
+    second: Enchanted Facesets_71
+  - first:
+      213: -1362627318373935028
+    second: Enchanted Facesets_72
+  - first:
+      213: -6305227611310516509
+    second: Enchanted Facesets_73
+  - first:
+      213: 7442022645369614457
+    second: Enchanted Facesets_74
+  - first:
+      213: -4396249441499080158
+    second: Enchanted Facesets_75
+  - first:
+      213: -5616668934698175416
+    second: Enchanted Facesets_76
+  - first:
+      213: -2469608233869278132
+    second: Enchanted Facesets_77
+  - first:
+      213: -1011635377775228748
+    second: Enchanted Facesets_78
+  - first:
+      213: -2639430773705334260
+    second: Enchanted Facesets_79
+  - first:
+      213: -8571357326233402176
+    second: Enchanted Facesets_80
+  - first:
+      213: 8974865689396879555
+    second: Enchanted Facesets_81
+  - first:
+      213: -2973514692357864885
+    second: Enchanted Facesets_82
+  - first:
+      213: 1144712392298363361
+    second: Enchanted Facesets_83
+  - first:
+      213: -5655557013608325176
+    second: Enchanted Facesets_84
+  - first:
+      213: 1608622804309396777
+    second: Enchanted Facesets_85
+  - first:
+      213: -4556643383296976110
+    second: Enchanted Facesets_86
+  - first:
+      213: 3260252996471257975
+    second: Enchanted Facesets_87
+  - first:
+      213: 8363207115967665792
+    second: Enchanted Facesets_88
+  - first:
+      213: -6797070959633776170
+    second: Enchanted Facesets_89
+  - first:
+      213: -4387722308355924316
+    second: Enchanted Facesets_90
+  - first:
+      213: 4989624386464994782
+    second: Enchanted Facesets_91
+  - first:
+      213: 1728342293527892318
+    second: Enchanted Facesets_92
+  - first:
+      213: -4405309855574540564
+    second: Enchanted Facesets_93
+  - first:
+      213: -8592285966925624400
+    second: Enchanted Facesets_94
+  - first:
+      213: 7952454805035436521
+    second: Enchanted Facesets_95
+  - first:
+      213: 5238189527806206877
+    second: Enchanted Facesets_96
+  - first:
+      213: 5875040705957429283
+    second: Enchanted Facesets_97
+  - first:
+      213: -6427944635324718922
+    second: Enchanted Facesets_98
+  - first:
+      213: 3815262775574794089
+    second: Enchanted Facesets_99
+  - first:
+      213: -557921693169089163
+    second: Enchanted Facesets_100
+  - first:
+      213: 8156504119065181162
+    second: Enchanted Facesets_101
+  - first:
+      213: -4384973119510897486
+    second: Enchanted Facesets_102
+  - first:
+      213: -2540168500286424928
+    second: Enchanted Facesets_103
+  - first:
+      213: 2196566992045138099
+    second: Enchanted Facesets_104
+  - first:
+      213: 1509338513016742187
+    second: Enchanted Facesets_105
+  - first:
+      213: -4966094975730495572
+    second: Enchanted Facesets_106
+  - first:
+      213: -7345264069320616548
+    second: Enchanted Facesets_107
+  - first:
+      213: -5075090271500320690
+    second: Enchanted Facesets_108
+  - first:
+      213: -6206510054485484359
+    second: Enchanted Facesets_109
+  - first:
+      213: 2052472904505859669
+    second: Enchanted Facesets_110
+  - first:
+      213: -242564535327099369
+    second: Enchanted Facesets_111
+  - first:
+      213: -7228530747764661826
+    second: Enchanted Facesets_112
+  - first:
+      213: 3937836572293019888
+    second: Enchanted Facesets_113
+  - first:
+      213: 6454774155288409056
+    second: Enchanted Facesets_114
+  - first:
+      213: -2181473745310552636
+    second: Enchanted Facesets_115
+  - first:
+      213: 4424913172833645717
+    second: Enchanted Facesets_116
+  - first:
+      213: -5215630403855277764
+    second: Enchanted Facesets_117
+  - first:
+      213: 4646268030288198784
+    second: Enchanted Facesets_118
+  - first:
+      213: -30126869735845314
+    second: Enchanted Facesets_119
+  - first:
+      213: -7386717200879645716
+    second: Enchanted Facesets_120
+  - first:
+      213: -7826438355030066539
+    second: Enchanted Facesets_121
+  - first:
+      213: -5029583443091188997
+    second: Enchanted Facesets_122
+  - first:
+      213: 441842194599355002
+    second: Enchanted Facesets_123
+  - first:
+      213: 7015282625635096884
+    second: Enchanted Facesets_124
+  - first:
+      213: 8082972574595572929
+    second: Enchanted Facesets_125
+  - first:
+      213: -1374660389478718524
+    second: Enchanted Facesets_126
+  - first:
+      213: 2694456319203385890
+    second: Enchanted Facesets_127
+  - first:
+      213: 228309012506737418
+    second: Enchanted Facesets_128
+  - first:
+      213: 4452395922592886381
+    second: Enchanted Facesets_129
+  - first:
+      213: 4330712152703645623
+    second: Enchanted Facesets_130
+  - first:
+      213: 3688454976821719624
+    second: Enchanted Facesets_131
+  - first:
+      213: 2408747431635501794
+    second: Enchanted Facesets_132
+  - first:
+      213: 5200337555712756982
+    second: Enchanted Facesets_133
+  - first:
+      213: -5504462726818810198
+    second: Enchanted Facesets_134
+  - first:
+      213: 3164431450685674471
+    second: Enchanted Facesets_135
+  - first:
+      213: -828862673440930522
+    second: Enchanted Facesets_136
+  - first:
+      213: -807151447917772568
+    second: Enchanted Facesets_137
+  - first:
+      213: 9047088988508261011
+    second: Enchanted Facesets_138
+  - first:
+      213: 1686723660720043156
+    second: Enchanted Facesets_139
+  - first:
+      213: 9018729184076545095
+    second: Enchanted Facesets_140
+  - first:
+      213: 2919165693663180762
+    second: Enchanted Facesets_141
+  - first:
+      213: 649528187559134159
+    second: Enchanted Facesets_142
+  - first:
+      213: 8753510192323306085
+    second: Enchanted Facesets_143
+  - first:
+      213: 2931733281722525157
+    second: Enchanted Facesets_144
+  - first:
+      213: -4345979650963633816
+    second: Enchanted Facesets_145
+  - first:
+      213: -7471752447041572764
+    second: Enchanted Facesets_146
+  - first:
+      213: -1949824333133955834
+    second: Enchanted Facesets_147
+  - first:
+      213: 5878130633832919109
+    second: Enchanted Facesets_148
+  - first:
+      213: -4686367797851801361
+    second: Enchanted Facesets_149
+  - first:
+      213: 9041426402676887847
+    second: Enchanted Facesets_150
+  - first:
+      213: -629911863028822
+    second: Enchanted Facesets_151
+  - first:
+      213: 768776869981563749
+    second: Enchanted Facesets_152
+  - first:
+      213: 9221914716584650274
+    second: Enchanted Facesets_153
+  - first:
+      213: -1792748746187625731
+    second: Enchanted Facesets_154
+  - first:
+      213: 1813277736110593232
+    second: Enchanted Facesets_155
+  - first:
+      213: 5821443373768266631
+    second: Enchanted Facesets_156
+  - first:
+      213: -1330922940977411802
+    second: Enchanted Facesets_157
+  - first:
+      213: -5611877319403128936
+    second: Enchanted Facesets_158
+  - first:
+      213: -4054885720960074343
+    second: Enchanted Facesets_159
+  - first:
+      213: -3589471195209947559
+    second: Enchanted Facesets_160
+  - first:
+      213: 1205679238675877365
+    second: Enchanted Facesets_161
+  - first:
+      213: 4619051040721053953
+    second: Enchanted Facesets_162
+  - first:
+      213: 1254361021381357837
+    second: Enchanted Facesets_163
+  - first:
+      213: 2141303997435866237
+    second: Enchanted Facesets_164
+  - first:
+      213: 7125085169727880911
+    second: Enchanted Facesets_165
+  - first:
+      213: 2785481171351240065
+    second: Enchanted Facesets_166
+  - first:
+      213: 630588157743579130
+    second: Enchanted Facesets_167
+  - first:
+      213: 8489299218190819643
+    second: Enchanted Facesets_168
+  - first:
+      213: 201560110200587485
+    second: Enchanted Facesets_169
+  - first:
+      213: 3431989124333739187
+    second: Enchanted Facesets_170
+  - first:
+      213: 7017188016287238846
+    second: Enchanted Facesets_171
+  - first:
+      213: -8160468612484871455
+    second: Enchanted Facesets_172
+  - first:
+      213: 8382539470164265352
+    second: Enchanted Facesets_173
+  - first:
+      213: -2095385490868363733
+    second: Enchanted Facesets_174
+  - first:
+      213: 6120229211642823661
+    second: Enchanted Facesets_175
+  - first:
+      213: -2393429073382110808
+    second: Enchanted Facesets_176
+  - first:
+      213: 1449727903169037057
+    second: Enchanted Facesets_177
+  - first:
+      213: 3362148915684118828
+    second: Enchanted Facesets_178
+  - first:
+      213: 7115442153526268414
+    second: Enchanted Facesets_179
+  - first:
+      213: -2109337622219727326
+    second: Enchanted Facesets_180
+  - first:
+      213: -8418579572634404664
+    second: Enchanted Facesets_181
+  - first:
+      213: 1346995276655279217
+    second: Enchanted Facesets_182
+  - first:
+      213: -4581633070721315327
+    second: Enchanted Facesets_183
+  - first:
+      213: 4369874864081129642
+    second: Enchanted Facesets_184
+  - first:
+      213: 7408460583672498913
+    second: Enchanted Facesets_185
+  - first:
+      213: 6277305759125586387
+    second: Enchanted Facesets_186
+  - first:
+      213: -1626964608126172767
+    second: Enchanted Facesets_187
+  - first:
+      213: -2233736235363229896
+    second: Enchanted Facesets_188
+  - first:
+      213: 1631425645212544780
+    second: Enchanted Facesets_189
+  - first:
+      213: 7412246106762221782
+    second: Enchanted Facesets_190
+  - first:
+      213: 8970238185696288141
+    second: Enchanted Facesets_191
+  - first:
+      213: -2787126496251258644
+    second: Enchanted Facesets_192
+  - first:
+      213: 8153180142085595051
+    second: Enchanted Facesets_193
+  - first:
+      213: -8048713385096846315
+    second: Enchanted Facesets_194
+  - first:
+      213: -722988503018967499
+    second: Enchanted Facesets_195
+  - first:
+      213: -5249031828272163404
+    second: Enchanted Facesets_196
+  - first:
+      213: -5520138207826911350
+    second: Enchanted Facesets_197
+  - first:
+      213: -3592340305436708393
+    second: Enchanted Facesets_198
+  - first:
+      213: 2512988662606232401
+    second: Enchanted Facesets_199
+  - first:
+      213: -8107118998505147147
+    second: Enchanted Facesets_200
+  - first:
+      213: 8796887612591086731
+    second: Enchanted Facesets_201
+  - first:
+      213: -2150651109404446904
+    second: Enchanted Facesets_202
+  - first:
+      213: 3280610859521842238
+    second: Enchanted Facesets_203
+  - first:
+      213: -1871552653993969907
+    second: Enchanted Facesets_204
+  - first:
+      213: 6117003222438738765
+    second: Enchanted Facesets_205
+  - first:
+      213: -2828915745100575610
+    second: Enchanted Facesets_206
+  - first:
+      213: -2886854795515351968
+    second: Enchanted Facesets_207
+  - first:
+      213: -742178187150384935
+    second: Enchanted Facesets_208
+  - first:
+      213: -8180387190388260819
+    second: Enchanted Facesets_209
+  - first:
+      213: -9187942343298165947
+    second: Enchanted Facesets_210
+  - first:
+      213: -41664609537618363
+    second: Enchanted Facesets_211
+  - first:
+      213: -7795006795175868043
+    second: Enchanted Facesets_212
+  - first:
+      213: 3294993635888068382
+    second: Enchanted Facesets_213
+  - first:
+      213: -3702396609458693984
+    second: Enchanted Facesets_214
+  - first:
+      213: 7634329124139573975
+    second: Enchanted Facesets_215
+  - first:
+      213: 8509352660931948680
+    second: Enchanted Facesets_216
+  - first:
+      213: -2226791804849026375
+    second: Enchanted Facesets_217
+  - first:
+      213: 2970907673483624287
+    second: Enchanted Facesets_218
+  - first:
+      213: -437238332773177757
+    second: Enchanted Facesets_219
+  - first:
+      213: 5058194779178571310
+    second: Enchanted Facesets_220
+  - first:
+      213: 7090800542197529306
+    second: Enchanted Facesets_221
+  - first:
+      213: -4412835729027144764
+    second: Enchanted Facesets_222
+  - first:
+      213: 6604026438465060182
+    second: Enchanted Facesets_223
+  - first:
+      213: 4725734818447740452
+    second: Enchanted Facesets_224
+  - first:
+      213: -7441436696634249751
+    second: Enchanted Facesets_225
+  - first:
+      213: 9197682833562591091
+    second: Enchanted Facesets_226
+  - first:
+      213: -3320182165684972986
+    second: Enchanted Facesets_227
+  - first:
+      213: 3051657912263002788
+    second: Enchanted Facesets_228
+  - first:
+      213: -3071491374327836688
+    second: Enchanted Facesets_229
+  - first:
+      213: -7571839793813739043
+    second: Enchanted Facesets_230
+  - first:
+      213: -5968943837055764551
+    second: Enchanted Facesets_231
+  - first:
+      213: -7363625305352361452
+    second: Enchanted Facesets_232
+  - first:
+      213: -7816264805010029870
+    second: Enchanted Facesets_233
+  - first:
+      213: -4114026332969969694
+    second: Enchanted Facesets_234
+  - first:
+      213: 3777639307565147391
+    second: Enchanted Facesets_235
+  - first:
+      213: -8203648014150814245
+    second: Enchanted Facesets_236
+  - first:
+      213: -6675927460418242552
+    second: Enchanted Facesets_237
+  - first:
+      213: -2209630428657473207
+    second: Enchanted Facesets_238
+  - first:
+      213: -1843717746399592661
+    second: Enchanted Facesets_239
+  - first:
+      213: 7193425510883174698
+    second: Enchanted Facesets_240
+  - first:
+      213: 6916735472198123744
+    second: Enchanted Facesets_241
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enchanted Facesets_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 484
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a9eab69b9a88bc0800000000000000
+      internalID: -3780585273336882668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 479
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6ea0802ba555140800000000000000
+      internalID: 4707768706171332334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_2
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 484
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d0bc08633841f10800000000000000
+      internalID: 2239559184822242690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 484
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054a38efceaf93b20800000000000000
+      internalID: 3114796513092674640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_4
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 479
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c24b42f691c5d080800000000000000
+      internalID: -9163205012761132345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_5
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 484
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3416c9ddf36c770800000000000000
+      internalID: 8630655956946076586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_6
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 483
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e3d4eca4b7ee6f0800000000000000
+      internalID: -653449334703178116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_7
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 479
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f44f0033424c430800000000000000
+      internalID: 3802203786885484400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 483
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e91ddacad7278160800000000000000
+      internalID: 7027629564194789864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_9
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 482
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d25a044f41175660800000000000000
+      internalID: 7374381946984092369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_10
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 479
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db1abb3b14342f50800000000000000
+      internalID: 6855661824335551445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_11
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 482
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc12891a7e18b3e20800000000000000
+      internalID: 3331399181219144141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_12
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 484
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd1d7bcfb8aab630800000000000000
+      internalID: 3943649965422484917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_13
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 479
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a320e94195e72b0f0800000000000000
+      internalID: -1102680037689261510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_14
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 484
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7309a801fe3c735c0800000000000000
+      internalID: -4235701492976545737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_15
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 488
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d47c9818c7aafb70800000000000000
+      internalID: 8933637288691004624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_16
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 481
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293b9a65c53c612c0800000000000000
+      internalID: -4461163579505527918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_17
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 488
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3b4b31d10bd2f90800000000000000
+      internalID: -6976726608795880543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_18
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 487
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9653df1eb68ce390800000000000000
+      internalID: -7787701504494578019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 481
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4032f5070733780800000000000000
+      internalID: -8704490026842258243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_20
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 487
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3fb22b10f3b61a0800000000000000
+      internalID: -6815284334578371672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_21
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 481
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67d3b8916da85300800000000000000
+      internalID: 241133214749677421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_22
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 479
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e5fda4141d1cc10800000000000000
+      internalID: 2072167381926370826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_23
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 481
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f58c121d978fa4e0800000000000000
+      internalID: -1968205403454142988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_24
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 479
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d9d3e9666720480800000000000000
+      internalID: -8934448527636062900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_25
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 479
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbd3a3c94a50f4e0800000000000000
+      internalID: -1949959365790016527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_26
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 479
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95404b2d135febe10800000000000000
+      internalID: 2215477661050078297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_27
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 479
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6893483dffce0440800000000000000
+      internalID: 4904085730730678379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_28
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 479
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e8fd014515e6330800000000000000
+      internalID: 3705988964874686033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_29
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 481
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5e8e5dea425b810800000000000000
+      internalID: 1780369561026618868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_30
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 481
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4a222fde2dbd250800000000000000
+      internalID: 5970597650421163183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_31
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 479
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6f3198e342cfe70800000000000000
+      internalID: 9150228393916364490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_32
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 447
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6c0d4ed29068f20800000000000000
+      internalID: 3424434659378906837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_33
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 447
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b539ea1e922969c40800000000000000
+      internalID: 5518759101966750555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_34
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 447
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d69dcc80394e9f0800000000000000
+      internalID: -440065197569643247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_35
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 447
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77496d95def56e310800000000000000
+      internalID: 1433939004383204471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 447
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f32a3c90cf8e110800000000000000
+      internalID: 1290558412108742492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_37
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 449
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d180891b9b43da50800000000000000
+      internalID: 6544657813019328984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05c96a8d7ee1b740800000000000000
+      internalID: 5166172470531179787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 447
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccb93c76da28f060800000000000000
+      internalID: 6987381922560851144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_40
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 447
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b863c767a3b4e960800000000000000
+      internalID: 7630421200254232755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_41
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 447
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416c1d8eb7e535650800000000000000
+      internalID: 6220419396608837140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_42
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 447
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eeda943830e3a140800000000000000
+      internalID: 4729870565674508007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_43
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 447
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6811ad361ed951810800000000000000
+      internalID: 1735466822789632390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_44
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 447
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3bb52bb63d84c20800000000000000
+      internalID: 3191032795499312086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_45
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 449
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18697e7af6a976b40800000000000000
+      internalID: 5433481279794812545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_46
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 448
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b10e5e480b658d0800000000000000
+      internalID: -2857902828681159886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_47
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 447
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e272962b92bb9aa0800000000000000
+      internalID: -6153128086434843936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 415
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a025fa12111c06130800000000000000
+      internalID: 3558055984946434570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_49
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 415
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796b1551b2af71b60800000000000000
+      internalID: 7716911549470848663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_50
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 415
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5292d4e9f05f7b7b0800000000000000
+      internalID: -5208424996601517787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_51
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 415
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4422c90d2ee49780800000000000000
+      internalID: -8677048704831445942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 415
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08a15d834ec936b0800000000000000
+      internalID: -5315991095605090292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_53
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 417
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec235f18a21511c0800000000000000
+      internalID: -4533696936589185814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1665855e54799920800000000000000
+      internalID: 2997554975502329374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 415
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc3642d81a709750800000000000000
+      internalID: 6309677324971687161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_56
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 415
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a8827030fafa5d0800000000000000
+      internalID: -3049025995166676415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_57
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 415
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6684acfb714ee750800000000000000
+      internalID: 6336073726532290154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_58
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 415
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e722573fca0a100800000000000000
+      internalID: 117283751953858087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_59
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 415
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9e986ad501992f0800000000000000
+      internalID: -965722650682201681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_60
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 415
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e81a36a02d787f0800000000000000
+      internalID: -610288282422374817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_61
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 417
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d245ea88f7f5b40800000000000000
+      internalID: 5431199900649139541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_62
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 417
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f53f99c9313c080800000000000000
+      internalID: -9168462853077508199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_63
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 415
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d44444c9fde7170800000000000000
+      internalID: 8178219835604618520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_64
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 383
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afea9f508d539a500800000000000000
+      internalID: 407916443183197946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_65
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 383
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c942c87cca07860800000000000000
+      internalID: 7525704950385777667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_66
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 383
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2828e9c904bde7740800000000000000
+      internalID: 5151796094310449794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_67
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 383
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b580f7557b22d260800000000000000
+      internalID: 7120801743812724149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_68
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 383
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7c678666d967bd0800000000000000
+      internalID: -2632743868986636374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_69
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 385
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa10d1738b9ad950800000000000000
+      internalID: 6474658403150994091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_70
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 384
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20dfc04acea0cbcd0800000000000000
+      internalID: -2541144078262928126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_71
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 383
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2488be4e0754ef0800000000000000
+      internalID: -124569286176390494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_72
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 383
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4814176ca9f61de0800000000000000
+      internalID: -1362627318373935028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_73
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 383
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e61adfd4e45f78a0800000000000000
+      internalID: -6305227611310516509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_74
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 383
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9703bab9a20674760800000000000000
+      internalID: 7442022645369614457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_75
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 383
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a107fdc626df2c0800000000000000
+      internalID: -4396249441499080158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_76
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 383
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844f75ebc559d02b0800000000000000
+      internalID: -5616668934698175416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_77
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 385
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4487d555603abdd0800000000000000
+      internalID: -2469608233869278132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_78
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 353
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b84d79dbf2f5f1f0800000000000000
+      internalID: -1011635377775228748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_79
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 384
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c022f0412bbde5bd0800000000000000
+      internalID: -2639430773705334260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_80
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 383
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c48aeebceb6c0980800000000000000
+      internalID: -8571357326233402176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_81
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 351
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0a75b2bc02d8c70800000000000000
+      internalID: 8974865689396879555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_82
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 351
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42ca934424fbb6d0800000000000000
+      internalID: -2973514692357864885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_83
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 351
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e97ee81bd5d2ef00800000000000000
+      internalID: 1144712392298363361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_84
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 351
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf18ec4cdc6381b0800000000000000
+      internalID: -5655557013608325176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_85
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 351
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d447ceae9f25610800000000000000
+      internalID: 1608622804309396777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_86
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 351
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b137a2cfc83c0c0800000000000000
+      internalID: -4556643383296976110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_87
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b7294a3debe3d20800000000000000
+      internalID: 3260252996471257975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_88
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 351
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0869542df84101470800000000000000
+      internalID: 8363207115967665792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_89
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 351
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1c7e189f3fba1a0800000000000000
+      internalID: -6797070959633776170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_90
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 326
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae5365cecdab13c0800000000000000
+      internalID: -4387722308355924316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_91
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 351
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed55fdd71f4be3540800000000000000
+      internalID: 4989624386464994782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_92
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 326
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e519308a82e4cf710800000000000000
+      internalID: 1728342293527892318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_93
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 351
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceeb3f4d6023dd2c0800000000000000
+      internalID: -4405309855574540564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_94
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 351
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb03dcdf6112c880800000000000000
+      internalID: -8592285966925624400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_95
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 351
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e94c72e28bcc5e60800000000000000
+      internalID: 7952454805035436521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_96
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 326
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d936f075f99c1b840800000000000000
+      internalID: 5238189527806206877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_97
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 321
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3208d8f0566588150800000000000000
+      internalID: 5875040705957429283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_98
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 352
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0a79f296a5bc6a0800000000000000
+      internalID: -6427944635324718922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_99
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 327
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f08eeb74982f430800000000000000
+      internalID: 3815262775574794089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_100
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 351
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5750c221d2dd148f0800000000000000
+      internalID: -557921693169089163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_101
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 319
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebf3e10849b13170800000000000000
+      internalID: 8156504119065181162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_102
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 319
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc9aed2e227523c0800000000000000
+      internalID: -4384973119510897486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_103
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 319
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a87ac615328fbcd0800000000000000
+      internalID: -2540168500286424928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_104
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 319
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0e2369a06cb7e10800000000000000
+      internalID: 2196566992045138099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_105
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 319
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21ed2a716f32f410800000000000000
+      internalID: 1509338513016742187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_106
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 319
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf4bba5ee2e41bb0800000000000000
+      internalID: -4966094975730495572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_107
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 319
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9554beee31601a90800000000000000
+      internalID: -7345264069320616548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_108
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 319
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40ce2c7948a199b0800000000000000
+      internalID: -5075090271500320690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_109
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 319
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc908b2dfb0ed9a0800000000000000
+      internalID: -6206510054485484359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_110
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 319
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e9f207b39db7c10800000000000000
+      internalID: 2052472904505859669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_111
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 319
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71678bc17dc32acf0800000000000000
+      internalID: -242564535327099369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_112
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 325
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1af7355991fab90800000000000000
+      internalID: -7228530747764661826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_113
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 319
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8311bbf7106a630800000000000000
+      internalID: 3937836572293019888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_114
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 324
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3765735e6f39950800000000000000
+      internalID: 6454774155288409056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_115
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 319
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd6ce3cf29d9b1e0800000000000000
+      internalID: -2181473745310552636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_116
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 321
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59432b42613786d30800000000000000
+      internalID: 4424913172833645717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_117
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 319
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31aa7208cb5e97b0800000000000000
+      internalID: -5215630403855277764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_118
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 255
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08cf494182cda7040800000000000000
+      internalID: 4646268030288198784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_119
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 287
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32533785c7f49ff0800000000000000
+      internalID: -30126869735845314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_120
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 255
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb0d41a7db1d7990800000000000000
+      internalID: -7386717200879645716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_121
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 287
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ab0f748c7e26390800000000000000
+      internalID: -7826438355030066539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_122
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 287
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf21d52a184533ab0800000000000000
+      internalID: -5029583443091188997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_123
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 287
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72afdf822db12600800000000000000
+      internalID: 441842194599355002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_124
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 287
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43913f3216a4b5160800000000000000
+      internalID: 7015282625635096884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_125
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 255
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c46efd2bbc7c2070800000000000000
+      internalID: 8082972574595572929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_126
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 257
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c32256b8a93cece0800000000000000
+      internalID: -1374660389478718524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_127
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 287
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222ace81fb1a46520800000000000000
+      internalID: 2694456319203385890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_128
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 287
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bfb7556dd1b2300800000000000000
+      internalID: 228309012506737418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_129
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 256
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6eeb8570861acd30800000000000000
+      internalID: 4452395922592886381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_130
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 287
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b73e5ef1c7c91c30800000000000000
+      internalID: 4330712152703645623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_131
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 287
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842fa775246003330800000000000000
+      internalID: 3688454976821719624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_132
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 287
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2c448e6079d6120800000000000000
+      internalID: 2408747431635501794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_133
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 287
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcc160547f4b2840800000000000000
+      internalID: 5200337555712756982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_134
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 287
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6369850583c93b0800000000000000
+      internalID: -5504462726818810198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_135
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 287
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3913673a15aeb20800000000000000
+      internalID: 3164431450685674471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_136
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 287
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62509fd3ac94f74f0800000000000000
+      internalID: -828862673440930522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_137
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 287
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e04bead80c6cc4f0800000000000000
+      internalID: -807151447917772568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_138
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 287
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a02636087bd8d70800000000000000
+      internalID: 9047088988508261011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_139
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 255
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494f6779b32786710800000000000000
+      internalID: 1686723660720043156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_140
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 255
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74cb45ed866f82d70800000000000000
+      internalID: 9018729184076545095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_141
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 255
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7fc436bb5f28820800000000000000
+      internalID: 2919165693663180762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_142
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 255
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3c01bf176930900800000000000000
+      internalID: 649528187559134159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_143
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 255
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562213f4427ba7970800000000000000
+      internalID: 8753510192323306085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_144
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 255
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5e24103eb9fa820800000000000000
+      internalID: 2931733281722525157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_145
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 255
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8698c3f888affa3c0800000000000000
+      internalID: -4345979650963633816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_146
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 255
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4607e688cb00f4890800000000000000
+      internalID: -7471752447041572764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_147
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 255
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d33218915d0f4e0800000000000000
+      internalID: -1949824333133955834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_148
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 255
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540f3f4faa0539150800000000000000
+      internalID: 5878130633832919109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_149
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 255
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8b63a315da6feb0800000000000000
+      internalID: -4686367797851801361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_150
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 223
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721d462e869997d70800000000000000
+      internalID: 9041426402676887847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_151
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 223
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa31a273913cdfff0800000000000000
+      internalID: -629911863028822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_152
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 223
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ba9c67d7e3baa00800000000000000
+      internalID: 768776869981563749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_153
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 223
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226a9fe2392daff70800000000000000
+      internalID: 9221914716584650274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_154
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 223
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfaa5f38380ee17e0800000000000000
+      internalID: -1792748746187625731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_155
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d41ffb6e7e0a2910800000000000000
+      internalID: 1813277736110593232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_156
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 224
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7835285b7ebe9c050800000000000000
+      internalID: 5821443373768266631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_157
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 223
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6298f9ff2ac978de0800000000000000
+      internalID: -1330922940977411802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_158
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 223
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897b7ed9f4b9e12b0800000000000000
+      internalID: -5611877319403128936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_159
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 223
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99dfe55abe62ab7c0800000000000000
+      internalID: -4054885720960074343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_160
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 223
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956a30e37f2af2ec0800000000000000
+      internalID: -3589471195209947559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_161
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 223
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdc65e21ee6bb010800000000000000
+      internalID: 1205679238675877365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_162
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 223
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109a391e27a2a1040800000000000000
+      internalID: 4619051040721053953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_163
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 225
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01388bf3b2686110800000000000000
+      internalID: 1254361021381357837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_164
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 224
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ce94bf3a077bd10800000000000000
+      internalID: 2141303997435866237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_165
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 223
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fceb808263361e260800000000000000
+      internalID: 7125085169727880911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_166
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 191
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18dfde20e5408a620800000000000000
+      internalID: 2785481171351240065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_167
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 191
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: affbfd5a69c40c800800000000000000
+      internalID: 630588157743579130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_168
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 191
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31e34429ac00d570800000000000000
+      internalID: 8489299218190819643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_169
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 191
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd405613ad51cc200800000000000000
+      internalID: 201560110200587485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_170
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 191
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc9ae4dcefd0af20800000000000000
+      internalID: 3431989124333739187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_171
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 193
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebacde8725f026160800000000000000
+      internalID: 7017188016287238846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_172
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 191
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea4d10780130ce80800000000000000
+      internalID: -8160468612484871455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_173
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 191
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88905da4c33c45470800000000000000
+      internalID: 8382539470164265352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_174
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 191
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e98457ff1bbe2e0800000000000000
+      internalID: -2095385490868363733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_175
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 191
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de380f7aa0c6fe450800000000000000
+      internalID: 6120229211642823661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_176
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 191
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a987fd40f4d8ced0800000000000000
+      internalID: -2393429073382110808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_177
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 191
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103cc51d8d77e1410800000000000000
+      internalID: 1449727903169037057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_178
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 191
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21115910a0c8ae20800000000000000
+      internalID: 3362148915684118828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_179
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 193
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef116cc70f02fb260800000000000000
+      internalID: 7115442153526268414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_180
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 192
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ed93cbb902ab2e0800000000000000
+      internalID: -2109337622219727326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_181
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 191
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c834c37b723b2b80800000000000000
+      internalID: -8418579572634404664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_182
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 159
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cba23411d71b210800000000000000
+      internalID: 1346995276655279217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_183
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 159
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e49782ff4ca60c0800000000000000
+      internalID: -4581633070721315327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_184
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 159
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0d67a490ae4ac30800000000000000
+      internalID: 4369874864081129642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_185
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 159
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea484e26a320d660800000000000000
+      internalID: 7408460583672498913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_186
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 159
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1c13f44587d1750800000000000000
+      internalID: 6277305759125586387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_187
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 161
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1c1861f4cdb69e0800000000000000
+      internalID: -1626964608126172767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_188
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 160
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f91419abc2001e0800000000000000
+      internalID: -2233736235363229896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_189
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 159
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f2b5c0bfcf3a610800000000000000
+      internalID: 1631425645212544780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_190
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 159
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d89555ff869dd660800000000000000
+      internalID: 7412246106762221782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_191
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 159
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d52118a10bc7c70800000000000000
+      internalID: 8970238185696288141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_192
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 159
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce85ddee7332259d0800000000000000
+      internalID: -2787126496251258644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_193
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 159
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafd7ce442ae52170800000000000000
+      internalID: 8153180142085595051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_194
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 159
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514ee56f1d93d4090800000000000000
+      internalID: -8048713385096846315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_195
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 161
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53eecdc79cd67f5f0800000000000000
+      internalID: -722988503018967499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_196
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b55e1ddc51b727b0800000000000000
+      internalID: -5249031828272163404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_197
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 159
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f5a630c878463b0800000000000000
+      internalID: -5520138207826911350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_198
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 127
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d170267681752ec0800000000000000
+      internalID: -3592340305436708393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_199
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 127
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b7a3fcfddefd220800000000000000
+      internalID: 2512988662606232401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_200
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 127
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4b746693abd7f80800000000000000
+      internalID: -8107118998505147147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_201
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 127
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c968dfca2d41a70800000000000000
+      internalID: 8796887612591086731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_202
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 127
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84fe52ce53a5722e0800000000000000
+      internalID: -2150651109404446904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_203
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 129
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c96100232178d20800000000000000
+      internalID: 3280610859521842238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_204
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 128
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07ff30f6c8e606e0800000000000000
+      internalID: -1871552653993969907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_205
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 127
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b71638506f3e450800000000000000
+      internalID: 6117003222438738765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_206
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 69
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c45c93e1cadb8d0800000000000000
+      internalID: -2828915745100575610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_207
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 63
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cac23dbd4dfe7d0800000000000000
+      internalID: -2886854795515351968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_208
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 69
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0abdafed043b5f0800000000000000
+      internalID: -742178187150384935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_209
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 69
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2080cf113d697e80800000000000000
+      internalID: -8180387190388260819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_210
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 63
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54351fa5e1fdd7080800000000000000
+      internalID: -9187942343298165947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_211
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 69
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e0ec4224afb6ff0800000000000000
+      internalID: -41664609537618363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_212
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 68
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57949c79e9292d390800000000000000
+      internalID: -7795006795175868043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_213
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 63
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17f744114b2abd20800000000000000
+      internalID: 3294993635888068382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_214
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 68
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a89a9b56e17e9cc0800000000000000
+      internalID: -3702396609458693984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_215
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 67
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d222c6d3e592f960800000000000000
+      internalID: 7634329124139573975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_216
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 63
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880bf5f192b471670800000000000000
+      internalID: 8509352660931948680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_217
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 67
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba093bc6a8d811e0800000000000000
+      internalID: -2226791804849026375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_218
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 67
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f397ad9c8ca3920800000000000000
+      internalID: 2970907673483624287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_219
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 63
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366eedc8d0e9ee9f0800000000000000
+      internalID: -437238332773177757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_220
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 67
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e269ca92a51523640800000000000000
+      internalID: 5058194779178571310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_221
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 68
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adab4d24685976260800000000000000
+      internalID: 7090800542197529306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_222
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 63
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c36f2fd84572c2c0800000000000000
+      internalID: -4412835729027144764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_223
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 68
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d7fff5e0736ab50800000000000000
+      internalID: 6604026438465060182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_224
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 5
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ec54487ce259140800000000000000
+      internalID: 4725734818447740452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_225
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed2f8630c4bab890800000000000000
+      internalID: -7441436696634249751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_226
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 5
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fd4334ecbb4af70800000000000000
+      internalID: 9197682833562591091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_227
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 6
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64292c059e75ce1d0800000000000000
+      internalID: -3320182165684972986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_228
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa427ce3baa95a20800000000000000
+      internalID: 3051657912263002788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_229
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 6
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff43865ededf55d0800000000000000
+      internalID: -3071491374327836688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_230
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 7
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9a09923db6be690800000000000000
+      internalID: -7571839793813739043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_231
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 2
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7b80c743d0a2da0800000000000000
+      internalID: -5968943837055764551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_232
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 7
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a25678cc52fc990800000000000000
+      internalID: -7363625305352361452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_233
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 7
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d24dfa729c078390800000000000000
+      internalID: -7816264805010029870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_234
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7d8b2e8da08e6c0800000000000000
+      internalID: -4114026332969969694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_235
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 7
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff429f87feedc6430800000000000000
+      internalID: 3777639307565147391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_236
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 4
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5b33e8899c62e80800000000000000
+      internalID: -8203648014150814245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_237
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 0
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808be7768575a53a0800000000000000
+      internalID: -6675927460418242552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_238
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 4
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9492afe05d0d551e0800000000000000
+      internalID: -2209630428657473207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_239
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 3
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fb4c36a7cc966e0800000000000000
+      internalID: -1843717746399592661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_240
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 0
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29ac66c36e24d360800000000000000
+      internalID: 7193425510883174698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted Facesets_241
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 3
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e086b9f34e2dff50800000000000000
+      internalID: 6916735472198123744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Enchanted Facesets_0: -3780585273336882668
+      Enchanted Facesets_1: 4707768706171332334
+      Enchanted Facesets_10: 6855661824335551445
+      Enchanted Facesets_100: -557921693169089163
+      Enchanted Facesets_101: 8156504119065181162
+      Enchanted Facesets_102: -4384973119510897486
+      Enchanted Facesets_103: -2540168500286424928
+      Enchanted Facesets_104: 2196566992045138099
+      Enchanted Facesets_105: 1509338513016742187
+      Enchanted Facesets_106: -4966094975730495572
+      Enchanted Facesets_107: -7345264069320616548
+      Enchanted Facesets_108: -5075090271500320690
+      Enchanted Facesets_109: -6206510054485484359
+      Enchanted Facesets_11: 3331399181219144141
+      Enchanted Facesets_110: 2052472904505859669
+      Enchanted Facesets_111: -242564535327099369
+      Enchanted Facesets_112: -7228530747764661826
+      Enchanted Facesets_113: 3937836572293019888
+      Enchanted Facesets_114: 6454774155288409056
+      Enchanted Facesets_115: -2181473745310552636
+      Enchanted Facesets_116: 4424913172833645717
+      Enchanted Facesets_117: -5215630403855277764
+      Enchanted Facesets_118: 4646268030288198784
+      Enchanted Facesets_119: -30126869735845314
+      Enchanted Facesets_12: 3943649965422484917
+      Enchanted Facesets_120: -7386717200879645716
+      Enchanted Facesets_121: -7826438355030066539
+      Enchanted Facesets_122: -5029583443091188997
+      Enchanted Facesets_123: 441842194599355002
+      Enchanted Facesets_124: 7015282625635096884
+      Enchanted Facesets_125: 8082972574595572929
+      Enchanted Facesets_126: -1374660389478718524
+      Enchanted Facesets_127: 2694456319203385890
+      Enchanted Facesets_128: 228309012506737418
+      Enchanted Facesets_129: 4452395922592886381
+      Enchanted Facesets_13: -1102680037689261510
+      Enchanted Facesets_130: 4330712152703645623
+      Enchanted Facesets_131: 3688454976821719624
+      Enchanted Facesets_132: 2408747431635501794
+      Enchanted Facesets_133: 5200337555712756982
+      Enchanted Facesets_134: -5504462726818810198
+      Enchanted Facesets_135: 3164431450685674471
+      Enchanted Facesets_136: -828862673440930522
+      Enchanted Facesets_137: -807151447917772568
+      Enchanted Facesets_138: 9047088988508261011
+      Enchanted Facesets_139: 1686723660720043156
+      Enchanted Facesets_14: -4235701492976545737
+      Enchanted Facesets_140: 9018729184076545095
+      Enchanted Facesets_141: 2919165693663180762
+      Enchanted Facesets_142: 649528187559134159
+      Enchanted Facesets_143: 8753510192323306085
+      Enchanted Facesets_144: 2931733281722525157
+      Enchanted Facesets_145: -4345979650963633816
+      Enchanted Facesets_146: -7471752447041572764
+      Enchanted Facesets_147: -1949824333133955834
+      Enchanted Facesets_148: 5878130633832919109
+      Enchanted Facesets_149: -4686367797851801361
+      Enchanted Facesets_15: 8933637288691004624
+      Enchanted Facesets_150: 9041426402676887847
+      Enchanted Facesets_151: -629911863028822
+      Enchanted Facesets_152: 768776869981563749
+      Enchanted Facesets_153: 9221914716584650274
+      Enchanted Facesets_154: -1792748746187625731
+      Enchanted Facesets_155: 1813277736110593232
+      Enchanted Facesets_156: 5821443373768266631
+      Enchanted Facesets_157: -1330922940977411802
+      Enchanted Facesets_158: -5611877319403128936
+      Enchanted Facesets_159: -4054885720960074343
+      Enchanted Facesets_16: -4461163579505527918
+      Enchanted Facesets_160: -3589471195209947559
+      Enchanted Facesets_161: 1205679238675877365
+      Enchanted Facesets_162: 4619051040721053953
+      Enchanted Facesets_163: 1254361021381357837
+      Enchanted Facesets_164: 2141303997435866237
+      Enchanted Facesets_165: 7125085169727880911
+      Enchanted Facesets_166: 2785481171351240065
+      Enchanted Facesets_167: 630588157743579130
+      Enchanted Facesets_168: 8489299218190819643
+      Enchanted Facesets_169: 201560110200587485
+      Enchanted Facesets_17: -6976726608795880543
+      Enchanted Facesets_170: 3431989124333739187
+      Enchanted Facesets_171: 7017188016287238846
+      Enchanted Facesets_172: -8160468612484871455
+      Enchanted Facesets_173: 8382539470164265352
+      Enchanted Facesets_174: -2095385490868363733
+      Enchanted Facesets_175: 6120229211642823661
+      Enchanted Facesets_176: -2393429073382110808
+      Enchanted Facesets_177: 1449727903169037057
+      Enchanted Facesets_178: 3362148915684118828
+      Enchanted Facesets_179: 7115442153526268414
+      Enchanted Facesets_18: -7787701504494578019
+      Enchanted Facesets_180: -2109337622219727326
+      Enchanted Facesets_181: -8418579572634404664
+      Enchanted Facesets_182: 1346995276655279217
+      Enchanted Facesets_183: -4581633070721315327
+      Enchanted Facesets_184: 4369874864081129642
+      Enchanted Facesets_185: 7408460583672498913
+      Enchanted Facesets_186: 6277305759125586387
+      Enchanted Facesets_187: -1626964608126172767
+      Enchanted Facesets_188: -2233736235363229896
+      Enchanted Facesets_189: 1631425645212544780
+      Enchanted Facesets_19: -8704490026842258243
+      Enchanted Facesets_190: 7412246106762221782
+      Enchanted Facesets_191: 8970238185696288141
+      Enchanted Facesets_192: -2787126496251258644
+      Enchanted Facesets_193: 8153180142085595051
+      Enchanted Facesets_194: -8048713385096846315
+      Enchanted Facesets_195: -722988503018967499
+      Enchanted Facesets_196: -5249031828272163404
+      Enchanted Facesets_197: -5520138207826911350
+      Enchanted Facesets_198: -3592340305436708393
+      Enchanted Facesets_199: 2512988662606232401
+      Enchanted Facesets_2: 2239559184822242690
+      Enchanted Facesets_20: -6815284334578371672
+      Enchanted Facesets_200: -8107118998505147147
+      Enchanted Facesets_201: 8796887612591086731
+      Enchanted Facesets_202: -2150651109404446904
+      Enchanted Facesets_203: 3280610859521842238
+      Enchanted Facesets_204: -1871552653993969907
+      Enchanted Facesets_205: 6117003222438738765
+      Enchanted Facesets_206: -2828915745100575610
+      Enchanted Facesets_207: -2886854795515351968
+      Enchanted Facesets_208: -742178187150384935
+      Enchanted Facesets_209: -8180387190388260819
+      Enchanted Facesets_21: 241133214749677421
+      Enchanted Facesets_210: -9187942343298165947
+      Enchanted Facesets_211: -41664609537618363
+      Enchanted Facesets_212: -7795006795175868043
+      Enchanted Facesets_213: 3294993635888068382
+      Enchanted Facesets_214: -3702396609458693984
+      Enchanted Facesets_215: 7634329124139573975
+      Enchanted Facesets_216: 8509352660931948680
+      Enchanted Facesets_217: -2226791804849026375
+      Enchanted Facesets_218: 2970907673483624287
+      Enchanted Facesets_219: -437238332773177757
+      Enchanted Facesets_22: 2072167381926370826
+      Enchanted Facesets_220: 5058194779178571310
+      Enchanted Facesets_221: 7090800542197529306
+      Enchanted Facesets_222: -4412835729027144764
+      Enchanted Facesets_223: 6604026438465060182
+      Enchanted Facesets_224: 4725734818447740452
+      Enchanted Facesets_225: -7441436696634249751
+      Enchanted Facesets_226: 9197682833562591091
+      Enchanted Facesets_227: -3320182165684972986
+      Enchanted Facesets_228: 3051657912263002788
+      Enchanted Facesets_229: -3071491374327836688
+      Enchanted Facesets_23: -1968205403454142988
+      Enchanted Facesets_230: -7571839793813739043
+      Enchanted Facesets_231: -5968943837055764551
+      Enchanted Facesets_232: -7363625305352361452
+      Enchanted Facesets_233: -7816264805010029870
+      Enchanted Facesets_234: -4114026332969969694
+      Enchanted Facesets_235: 3777639307565147391
+      Enchanted Facesets_236: -8203648014150814245
+      Enchanted Facesets_237: -6675927460418242552
+      Enchanted Facesets_238: -2209630428657473207
+      Enchanted Facesets_239: -1843717746399592661
+      Enchanted Facesets_24: -8934448527636062900
+      Enchanted Facesets_240: 7193425510883174698
+      Enchanted Facesets_241: 6916735472198123744
+      Enchanted Facesets_25: -1949959365790016527
+      Enchanted Facesets_26: 2215477661050078297
+      Enchanted Facesets_27: 4904085730730678379
+      Enchanted Facesets_28: 3705988964874686033
+      Enchanted Facesets_29: 1780369561026618868
+      Enchanted Facesets_3: 3114796513092674640
+      Enchanted Facesets_30: 5970597650421163183
+      Enchanted Facesets_31: 9150228393916364490
+      Enchanted Facesets_32: 3424434659378906837
+      Enchanted Facesets_33: 5518759101966750555
+      Enchanted Facesets_34: -440065197569643247
+      Enchanted Facesets_35: 1433939004383204471
+      Enchanted Facesets_36: 1290558412108742492
+      Enchanted Facesets_37: 6544657813019328984
+      Enchanted Facesets_38: 5166172470531179787
+      Enchanted Facesets_39: 6987381922560851144
+      Enchanted Facesets_4: -9163205012761132345
+      Enchanted Facesets_40: 7630421200254232755
+      Enchanted Facesets_41: 6220419396608837140
+      Enchanted Facesets_42: 4729870565674508007
+      Enchanted Facesets_43: 1735466822789632390
+      Enchanted Facesets_44: 3191032795499312086
+      Enchanted Facesets_45: 5433481279794812545
+      Enchanted Facesets_46: -2857902828681159886
+      Enchanted Facesets_47: -6153128086434843936
+      Enchanted Facesets_48: 3558055984946434570
+      Enchanted Facesets_49: 7716911549470848663
+      Enchanted Facesets_5: 8630655956946076586
+      Enchanted Facesets_50: -5208424996601517787
+      Enchanted Facesets_51: -8677048704831445942
+      Enchanted Facesets_52: -5315991095605090292
+      Enchanted Facesets_53: -4533696936589185814
+      Enchanted Facesets_54: 2997554975502329374
+      Enchanted Facesets_55: 6309677324971687161
+      Enchanted Facesets_56: -3049025995166676415
+      Enchanted Facesets_57: 6336073726532290154
+      Enchanted Facesets_58: 117283751953858087
+      Enchanted Facesets_59: -965722650682201681
+      Enchanted Facesets_6: -653449334703178116
+      Enchanted Facesets_60: -610288282422374817
+      Enchanted Facesets_61: 5431199900649139541
+      Enchanted Facesets_62: -9168462853077508199
+      Enchanted Facesets_63: 8178219835604618520
+      Enchanted Facesets_64: 407916443183197946
+      Enchanted Facesets_65: 7525704950385777667
+      Enchanted Facesets_66: 5151796094310449794
+      Enchanted Facesets_67: 7120801743812724149
+      Enchanted Facesets_68: -2632743868986636374
+      Enchanted Facesets_69: 6474658403150994091
+      Enchanted Facesets_7: 3802203786885484400
+      Enchanted Facesets_70: -2541144078262928126
+      Enchanted Facesets_71: -124569286176390494
+      Enchanted Facesets_72: -1362627318373935028
+      Enchanted Facesets_73: -6305227611310516509
+      Enchanted Facesets_74: 7442022645369614457
+      Enchanted Facesets_75: -4396249441499080158
+      Enchanted Facesets_76: -5616668934698175416
+      Enchanted Facesets_77: -2469608233869278132
+      Enchanted Facesets_78: -1011635377775228748
+      Enchanted Facesets_79: -2639430773705334260
+      Enchanted Facesets_8: 7027629564194789864
+      Enchanted Facesets_80: -8571357326233402176
+      Enchanted Facesets_81: 8974865689396879555
+      Enchanted Facesets_82: -2973514692357864885
+      Enchanted Facesets_83: 1144712392298363361
+      Enchanted Facesets_84: -5655557013608325176
+      Enchanted Facesets_85: 1608622804309396777
+      Enchanted Facesets_86: -4556643383296976110
+      Enchanted Facesets_87: 3260252996471257975
+      Enchanted Facesets_88: 8363207115967665792
+      Enchanted Facesets_89: -6797070959633776170
+      Enchanted Facesets_9: 7374381946984092369
+      Enchanted Facesets_90: -4387722308355924316
+      Enchanted Facesets_91: 4989624386464994782
+      Enchanted Facesets_92: 1728342293527892318
+      Enchanted Facesets_93: -4405309855574540564
+      Enchanted Facesets_94: -8592285966925624400
+      Enchanted Facesets_95: 7952454805035436521
+      Enchanted Facesets_96: 5238189527806206877
+      Enchanted Facesets_97: 5875040705957429283
+      Enchanted Facesets_98: -6427944635324718922
+      Enchanted Facesets_99: 3815262775574794089
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

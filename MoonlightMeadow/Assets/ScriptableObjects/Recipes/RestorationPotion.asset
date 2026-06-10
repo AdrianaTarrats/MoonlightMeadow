@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58ee71a124eaea7449977c33d284cedc, type: 3}
+  m_Name: RestorationPotion
+  m_EditorClassIdentifier: Assembly-CSharp::Recipe
+  recipeId: 4
+  title: Moonheart Elixir
+  totalTimesCrafted: 0
+  text: 'An ancient Moonwarden potion capable of awakening the Heartgrove.
+
+
+    1.
+    Start the fire under the cauldron.
+
+    2. Add a Moondrop Tonic.
+
+    3. Add
+    an Emberroot Brew.
+
+    4. Add a Moonbloom Elixir.
+
+    5. Add a Swiftstep  Draught.
+
+'
+  steps:
+  - nodeType: 0
+    itemID: 100
+    amount: 2
+    description: Use wood to start the fire.
+    ifElseBlock:
+      rid: -2
+    forBlock:
+      rid: -2
+  - nodeType: 0
+    itemID: 200
+    amount: 1
+    description: Add a Moondrop Tonic.
+    ifElseBlock:
+      rid: -2
+    forBlock:
+      rid: -2
+  - nodeType: 0
+    itemID: 201
+    amount: 1
+    description: Add an Emberroot Brew.
+    ifElseBlock:
+      rid: -2
+    forBlock:
+      rid: -2
+  - nodeType: 0
+    itemID: 202
+    amount: 1
+    description: Add a Moonbloom Elixir.
+    ifElseBlock:
+      rid: -2
+    forBlock:
+      rid: -2
+  - nodeType: 0
+    itemID: 203
+    amount: 1
+    description: Add a Swiftstep  Draught.
+    ifElseBlock:
+      rid: -2
+    forBlock:
+      rid: -2
+  resultItemID: 204
+  resultQuantity: 1
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }

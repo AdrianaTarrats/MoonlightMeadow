@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5d3c692ee9969445bb269dafc5221a5, type: 3}
+  m_Name: CarrotCrop
+  m_EditorClassIdentifier: Assembly-CSharp::CropData
+  cropName: Carrot
+  cropID: 401
+  isMagic: 0
+  daysPerStage: 0100000001000000010000000100000001000000
+  stagePrefabs:
+  - {fileID: 568373645311471965, guid: b814028e7f060c849928839bff12e1da, type: 3}
+  - {fileID: 568373645311471965, guid: 5476798f0ea6fbe44a744a388c3bcba0, type: 3}
+  - {fileID: 9059658830303526395, guid: 6abea592d7c9a8a478df0920a721a90f, type: 3}
+  - {fileID: 2001530907902821374, guid: e641e64afba9d1f43aaed73127058105, type: 3}
+  - {fileID: 2001530907902821374, guid: 450604a09f7d12140b7ad92a03f7c66d, type: 3}
+  wateredStageSprites:
+  - {fileID: 383249435826692689, guid: d0647504ddfd14046954f539ef564d70, type: 3}
+  - {fileID: 5130923115285994531, guid: d0647504ddfd14046954f539ef564d70, type: 3}
+  - {fileID: 4297341478279314326, guid: d0647504ddfd14046954f539ef564d70, type: 3}
+  - {fileID: -2939277096297649664, guid: d0647504ddfd14046954f539ef564d70, type: 3}
+  - {fileID: -8229710803531909357, guid: d0647504ddfd14046954f539ef564d70, type: 3}
+  harvestItemPrefab: {fileID: 1012293264553586956, guid: c72990483096536489966acd305bc9a3, type: 3}
+  harvestAmount: 1

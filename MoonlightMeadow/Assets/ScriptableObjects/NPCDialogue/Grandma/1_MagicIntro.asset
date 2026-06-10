@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a621783cb453147b01764dde5ed130, type: 3}
+  m_Name: 1_MagicIntro
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialogue
+  dialogueLines:
+  - ...
+  - You finally opened it...
+  - Do not be frightened, dear.
+  - I am gone from the living world... but this cottage still remembers me.
+  - As long as the moon door remains open, I can stay here and guide you.
+  - What lies beyond that door is the hidden side of the world.
+  - A place sustained by moonlight and old magic.
+  - Long ago, magic existed everywhere. Humans lived alongside magical creatures
+    without fear.
+  - But belief faded. And with it, magic began to weaken.
+  - The last Moonwardens bound the magical world to the moon to preserve what remained.
+  - That is why the lands only awaken at night... Moonlight keeps the magic alive.
+  - This cottage exists between worlds, neither fully magic nor fully human.
+  - A place where both can still touch.
+  - For generations, Moonwardens cared for this balance.
+  - We nurtured the land and protected the old magic from fading entirely.
+  - Now the responsibility belongs to you... The magic here is weak, but not beyond
+    saving.
+  - As you restore the land, the magical world will slowly grow stronger again.
+  - To understand what's at stake, you should visit the enchanted forest...
+  - Wait until moonlight hits the moon door, then you'll be able to enter and see
+    for yourself...
+  autoProgressLines: 01010101010101010101010101010101010100
+  endDialogueLines: 00000000000000000000000000000000000001
+  goToNextDialogueOnLines: 00000000000000000000000000000000000001
+  giveQuestOnLines: 00000000000000000000000000000000000000
+  giveItemOnLines: 00000000000000000000000000000000000000
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  questInProgressIndex: 0
+  questCompletedIndex: 0
+  quest: {fileID: 0}
+  itemIDsToGive: 
+  itemAmountsToGive: 
+  givesItem: 0

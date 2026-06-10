@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a621783cb453147b01764dde5ed130, type: 3}
+  m_Name: R1_1_CollectWoodDialogue
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialogue
+  dialogueLines:
+  - So... William sent you back here.
+  - That old guardian always did prefer dramatic warnings.
+  - Still, he is right...
+  - If the magival world is to recover, you must learn the craft of the Moonwardens.
+  - Magic is not restored through force, dear.
+  - It is restored through patience, understanding... and practice.
+  - We'll begin with something simple. A Moondrop Tonic.
+  - Most Moonwarden recipes are written as sequences of steps. Each action matters,
+    and the order matters just as much.
+  - Before any potion can be brewed, the fire under the cauldron must be lit.
+  - Collect two pieces of wood, and we'll begin.
+  - Every potion begins with fire.
+  - Gather two pieces of wood so we can light the cauldron.
+  - Good. A steady flame is the foundation of every brew.
+  autoProgressLines: 01010101010101010100010001
+  endDialogueLines: 00000000000000000001000100
+  goToNextDialogueOnLines: 00000000000000000000000001
+  giveQuestOnLines: 00000000000000000001000000
+  giveItemOnLines: 
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  questInProgressIndex: 10
+  questCompletedIndex: 12
+  quest: {fileID: 11400000, guid: 3ca6f7b6cf9c3bb4aa9e1f0d1e44df04, type: 2}
+  itemIDsToGive: 
+  itemAmountsToGive: 
+  givesItem: 0

@@ -1,0 +1,1964 @@
+fileFormatVersion: 2
+guid: 903c5265dd663f043b1d45d9f4cbdcf8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8239250349355872897
+    second: Crops_Tileset - copia_0
+  - first:
+      213: 5154654158068291811
+    second: Crops_Tileset - copia_1
+  - first:
+      213: -6138488005014041937
+    second: Crops_Tileset - copia_2
+  - first:
+      213: 3731960391737524288
+    second: Crops_Tileset - copia_3
+  - first:
+      213: 7553795368336379584
+    second: Crops_Tileset - copia_4
+  - first:
+      213: 5803798777509108495
+    second: Crops_Tileset - copia_5
+  - first:
+      213: -7840613269509401793
+    second: Crops_Tileset - copia_6
+  - first:
+      213: 2570901496739941006
+    second: Crops_Tileset - copia_7
+  - first:
+      213: 5949584222221038507
+    second: Crops_Tileset - copia_8
+  - first:
+      213: -28671576504056946
+    second: Crops_Tileset - copia_9
+  - first:
+      213: 4032728523448926356
+    second: Crops_Tileset - copia_10
+  - first:
+      213: -6739548079928995607
+    second: Crops_Tileset - copia_11
+  - first:
+      213: -6327308244272807472
+    second: Crops_Tileset - copia_12
+  - first:
+      213: 3585973459972224523
+    second: Crops_Tileset - copia_13
+  - first:
+      213: 7137569973474829179
+    second: Crops_Tileset - copia_14
+  - first:
+      213: -3659468873355390815
+    second: Crops_Tileset - copia_15
+  - first:
+      213: 7310137452893088311
+    second: Crops_Tileset - copia_16
+  - first:
+      213: -7196773946353635106
+    second: Crops_Tileset - copia_17
+  - first:
+      213: 6213243546002848076
+    second: Crops_Tileset - copia_18
+  - first:
+      213: -1805831562492523256
+    second: Crops_Tileset - copia_19
+  - first:
+      213: -4577207403083470466
+    second: Crops_Tileset - copia_20
+  - first:
+      213: 7643738703948911690
+    second: Crops_Tileset - copia_21
+  - first:
+      213: 5397478803734174400
+    second: Crops_Tileset - copia_22
+  - first:
+      213: -3637328857000562441
+    second: Crops_Tileset - copia_23
+  - first:
+      213: -8149127744151519742
+    second: Crops_Tileset - copia_24
+  - first:
+      213: -2922203893493872918
+    second: Crops_Tileset - copia_25
+  - first:
+      213: 4353343556066851137
+    second: Crops_Tileset - copia_26
+  - first:
+      213: -2051574709429638476
+    second: Crops_Tileset - copia_27
+  - first:
+      213: -5032231287256352701
+    second: Crops_Tileset - copia_28
+  - first:
+      213: -4241097255221005431
+    second: Crops_Tileset - copia_29
+  - first:
+      213: 8286691837443355839
+    second: Crops_Tileset - copia_30
+  - first:
+      213: -4659424152170618687
+    second: Crops_Tileset - copia_31
+  - first:
+      213: -4993472552097561920
+    second: Crops_Tileset - copia_32
+  - first:
+      213: 6731896712183665814
+    second: Crops_Tileset - copia_33
+  - first:
+      213: 6020380401463517743
+    second: Crops_Tileset - copia_34
+  - first:
+      213: -8654414772263518655
+    second: Crops_Tileset - copia_35
+  - first:
+      213: -9216015900791690946
+    second: Crops_Tileset - copia_36
+  - first:
+      213: 1329528509888330301
+    second: Crops_Tileset - copia_37
+  - first:
+      213: -3967157696237008358
+    second: Crops_Tileset - copia_38
+  - first:
+      213: 1877379577821991609
+    second: Crops_Tileset - copia_39
+  - first:
+      213: -191815267631745990
+    second: Crops_Tileset - copia_40
+  - first:
+      213: -8799238968090839
+    second: Crops_Tileset - copia_41
+  - first:
+      213: 420052090690968099
+    second: Crops_Tileset - copia_42
+  - first:
+      213: 5398548647887046397
+    second: Crops_Tileset - copia_43
+  - first:
+      213: -7683155624648230816
+    second: Crops_Tileset - copia_44
+  - first:
+      213: -5973056863950485869
+    second: Crops_Tileset - copia_45
+  - first:
+      213: 5061138414823599193
+    second: Crops_Tileset - copia_46
+  - first:
+      213: -8016477400871521605
+    second: Crops_Tileset - copia_47
+  - first:
+      213: -8355779141348498770
+    second: Crops_Tileset - copia_48
+  - first:
+      213: -8467114371341760774
+    second: Crops_Tileset - copia_49
+  - first:
+      213: -6743864503254180022
+    second: Crops_Tileset - copia_50
+  - first:
+      213: -5808263481287005554
+    second: Crops_Tileset - copia_51
+  - first:
+      213: 382505739675653748
+    second: Crops_Tileset - copia_52
+  - first:
+      213: -4275354610193697788
+    second: Crops_Tileset - copia_53
+  - first:
+      213: -8148931145011887663
+    second: Crops_Tileset - copia_54
+  - first:
+      213: 6892340906001406297
+    second: Crops_Tileset - copia_55
+  - first:
+      213: 5593949591540170279
+    second: Crops_Tileset - copia_56
+  - first:
+      213: 2508234539316938244
+    second: Crops_Tileset - copia_57
+  - first:
+      213: -2190207196464721455
+    second: Crops_Tileset - copia_58
+  - first:
+      213: 3898707603569732471
+    second: Crops_Tileset - copia_59
+  - first:
+      213: -5825829894021473400
+    second: Crops_Tileset - copia_60
+  - first:
+      213: -4371832643812044002
+    second: Crops_Tileset - copia_61
+  - first:
+      213: -8210365612090932881
+    second: Crops_Tileset - copia_62
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 433
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d412fe57d48ad80800000000000000
+      internalID: -8239250349355872897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 433
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e896af65a2098740800000000000000
+      internalID: 5154654158068291811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 433
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa442bbea5bfcaa0800000000000000
+      internalID: -6138488005014041937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 432
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040c75914369ac330800000000000000
+      internalID: 3731960391737524288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 433
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce4ea3add874d860800000000000000
+      internalID: 7553795368336379584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_5
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 420
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bd6410d3c3b8050800000000000000
+      internalID: 5803798777509108495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_6
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 419
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f339da1d5cb803390800000000000000
+      internalID: -7840613269509401793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_7
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 421
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a44b14a4dada320800000000000000
+      internalID: 2570901496739941006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_8
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 421
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3f0cee35b219250800000000000000
+      internalID: 5949584222221038507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_9
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 421
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8343536a532a9ff0800000000000000
+      internalID: -28671576504056946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 390
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49042cbc93127f730800000000000000
+      internalID: 4032728523448926356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_11
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 390
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e09a2d9ab05872a0800000000000000
+      internalID: -6739548079928995607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_12
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 390
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d108b3eca2e038a0800000000000000
+      internalID: -6327308244272807472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_13
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 390
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b067f9fccdfe3c130800000000000000
+      internalID: 3585973459972224523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_14
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 390
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73267c031ebd0360800000000000000
+      internalID: 7137569973474829179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_15
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 357
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a09d09c274f63dc0800000000000000
+      internalID: -3659468873355390815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_16
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 357
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73aa8fa5843d27560800000000000000
+      internalID: 7310137452893088311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 358
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed03ec6d93cef1c90800000000000000
+      internalID: -7196773946353635106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_18
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 359
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49fc7ef510e93650800000000000000
+      internalID: 6213243546002848076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_19
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 359
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80dc179f2c560f6e0800000000000000
+      internalID: -1805831562492523256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_20
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 325
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79ebe33e1e7a70c0800000000000000
+      internalID: -4577207403083470466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_21
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 325
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4497cc5ad3041a60800000000000000
+      internalID: 7643738703948911690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_22
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 325
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca964bff52b7ea40800000000000000
+      internalID: 5397478803734174400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_23
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 324
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0343b0dac958dc0800000000000000
+      internalID: -3637328857000562441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_24
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 326
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e719c1e7b78ee80800000000000000
+      internalID: -8149127744151519742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_25
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 293
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6c8079a0f3277d0800000000000000
+      internalID: -2922203893493872918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_26
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 293
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149b99436ee2a6c30800000000000000
+      internalID: 4353343556066851137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 292
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba6546eba75783e0800000000000000
+      internalID: -2051574709429638476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_28
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 290
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3487a7f5e4ce92ab0800000000000000
+      internalID: -5032231287256352701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_29
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 292
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983faa444889425c0800000000000000
+      internalID: -4241097255221005431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_30
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 256
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4b0f5425e300370800000000000000
+      internalID: 8286691837443355839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0aef79b66665fb0800000000000000
+      internalID: -4659424152170618687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_32
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 256
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2cf80ab2f93bab0800000000000000
+      internalID: -4993472552097561920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694d35284608c6d50800000000000000
+      internalID: 6731896712183665814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_34
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 241
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22e4f9e310bc8350800000000000000
+      internalID: 6020380401463517743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_35
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 242
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ef6502e9755e780800000000000000
+      internalID: -8654414772263518655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_36
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 241
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39a5f4ed522a1080800000000000000
+      internalID: -9216015900791690946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_37
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 242
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3af5a6b22f637210800000000000000
+      internalID: 1329528509888330301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_38
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 242
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a06db1813d1f8c0800000000000000
+      internalID: -3967157696237008358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_39
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 225
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b217ac77cacd0a10800000000000000
+      internalID: 1877379577821991609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_40
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 225
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a343056c709865df0800000000000000
+      internalID: -191815267631745990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_41
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 225
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f5307832db0eff0800000000000000
+      internalID: -8799238968090839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_42
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 225
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a9bc4a62354d500800000000000000
+      internalID: 420052090690968099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_43
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 209
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df609fb746f7bea40800000000000000
+      internalID: 5398548647887046397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_44
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 209
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0683cce9aa2ff5590800000000000000
+      internalID: -7683155624648230816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_45
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 209
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396c509cd607b1da0800000000000000
+      internalID: -5973056863950485869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_46
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 209
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ce4aeb296cc3640800000000000000
+      internalID: 5061138414823599193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_47
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 193
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb23b1be640cfb090800000000000000
+      internalID: -8016477400871521605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_48
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 193
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2ed4a442f4a0c80800000000000000
+      internalID: -8355779141348498770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_49
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 193
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6c1970754ce7a80800000000000000
+      internalID: -8467114371341760774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_50
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 193
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f1b2ef6faf862a0800000000000000
+      internalID: -6743864503254180022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_51
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 166
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8aa3042327e46fa0800000000000000
+      internalID: -5808263481287005554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_52
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 166
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4765ae191feee4500800000000000000
+      internalID: 382505739675653748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_53
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 166
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404739242a3eaa4c0800000000000000
+      internalID: -4275354610193697788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_54
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 166
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1037a6c4e29ee80800000000000000
+      internalID: -8148931145011887663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_55
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 133
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9599b1d698386af50800000000000000
+      internalID: 6892340906001406297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_56
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 133
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e7137f383b1ad40800000000000000
+      internalID: 5593949591540170279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_57
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 134
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4060a59360a0fc220800000000000000
+      internalID: 2508234539316938244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_58
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 134
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d15736b822da91e0800000000000000
+      internalID: -2190207196464721455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_59
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 101
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b63e1c8edfa1630800000000000000
+      internalID: 3898707603569732471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_60
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 101
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b9ff4f39e762fa0800000000000000
+      internalID: -5825829894021473400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_61
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 101
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1350289f512453c0800000000000000
+      internalID: -4371832643812044002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_62
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 100
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61cc37e9fbee0e80800000000000000
+      internalID: -8210365612090932881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_63
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 69
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470b0be88784ec340b1af37463b9317f
+      internalID: 1857896602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_64
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 69
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48fc45eee96d9f4fbbe35e220cfadba
+      internalID: -1478186957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_65
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 68
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621cbc3482cb8c4409ead941c0fa99a1
+      internalID: -76362230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_66
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 68
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222f42be01fed8c4fb67098072c861c8
+      internalID: 1153637086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_67
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 34
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e0073375468f04b91703ea81389461
+      internalID: 2132412532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_68
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 34
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d59e588bc249bb4baa72b6e6b152a42
+      internalID: -2135285485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_69
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 17
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55087c88890bc994f857aace55d99327
+      internalID: 840524839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_70
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 264
+        width: 1
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c10c4a943d64d4449eb9f419a9133ef
+      internalID: -694942739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crops_Tileset - copia_71
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 378
+        width: 1
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93afb9175e87e44e90ebff04fda2170
+      internalID: -1059941805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: faa9e3ae4fbe6474c81b33a218368e7f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Crops_Tileset - copia_0: -8239250349355872897
+      Crops_Tileset - copia_1: 5154654158068291811
+      Crops_Tileset - copia_10: 4032728523448926356
+      Crops_Tileset - copia_11: -6739548079928995607
+      Crops_Tileset - copia_12: -6327308244272807472
+      Crops_Tileset - copia_13: 3585973459972224523
+      Crops_Tileset - copia_14: 7137569973474829179
+      Crops_Tileset - copia_15: -3659468873355390815
+      Crops_Tileset - copia_16: 7310137452893088311
+      Crops_Tileset - copia_17: -7196773946353635106
+      Crops_Tileset - copia_18: 6213243546002848076
+      Crops_Tileset - copia_19: -1805831562492523256
+      Crops_Tileset - copia_2: -6138488005014041937
+      Crops_Tileset - copia_20: -4577207403083470466
+      Crops_Tileset - copia_21: 7643738703948911690
+      Crops_Tileset - copia_22: 5397478803734174400
+      Crops_Tileset - copia_23: -3637328857000562441
+      Crops_Tileset - copia_24: -8149127744151519742
+      Crops_Tileset - copia_25: -2922203893493872918
+      Crops_Tileset - copia_26: 4353343556066851137
+      Crops_Tileset - copia_27: -2051574709429638476
+      Crops_Tileset - copia_28: -5032231287256352701
+      Crops_Tileset - copia_29: -4241097255221005431
+      Crops_Tileset - copia_3: 3731960391737524288
+      Crops_Tileset - copia_30: 8286691837443355839
+      Crops_Tileset - copia_31: -4659424152170618687
+      Crops_Tileset - copia_32: -4993472552097561920
+      Crops_Tileset - copia_33: 6731896712183665814
+      Crops_Tileset - copia_34: 6020380401463517743
+      Crops_Tileset - copia_35: -8654414772263518655
+      Crops_Tileset - copia_36: -9216015900791690946
+      Crops_Tileset - copia_37: 1329528509888330301
+      Crops_Tileset - copia_38: -3967157696237008358
+      Crops_Tileset - copia_39: 1877379577821991609
+      Crops_Tileset - copia_4: 7553795368336379584
+      Crops_Tileset - copia_40: -191815267631745990
+      Crops_Tileset - copia_41: -8799238968090839
+      Crops_Tileset - copia_42: 420052090690968099
+      Crops_Tileset - copia_43: 5398548647887046397
+      Crops_Tileset - copia_44: -7683155624648230816
+      Crops_Tileset - copia_45: -5973056863950485869
+      Crops_Tileset - copia_46: 5061138414823599193
+      Crops_Tileset - copia_47: -8016477400871521605
+      Crops_Tileset - copia_48: -8355779141348498770
+      Crops_Tileset - copia_49: -8467114371341760774
+      Crops_Tileset - copia_5: 5803798777509108495
+      Crops_Tileset - copia_50: -6743864503254180022
+      Crops_Tileset - copia_51: -5808263481287005554
+      Crops_Tileset - copia_52: 382505739675653748
+      Crops_Tileset - copia_53: -4275354610193697788
+      Crops_Tileset - copia_54: -8148931145011887663
+      Crops_Tileset - copia_55: 6892340906001406297
+      Crops_Tileset - copia_56: 5593949591540170279
+      Crops_Tileset - copia_57: 2508234539316938244
+      Crops_Tileset - copia_58: -2190207196464721455
+      Crops_Tileset - copia_59: 3898707603569732471
+      Crops_Tileset - copia_6: -7840613269509401793
+      Crops_Tileset - copia_60: -5825829894021473400
+      Crops_Tileset - copia_61: -4371832643812044002
+      Crops_Tileset - copia_62: -8210365612090932881
+      Crops_Tileset - copia_63: 1857896602
+      Crops_Tileset - copia_64: -1478186957
+      Crops_Tileset - copia_65: -76362230
+      Crops_Tileset - copia_66: 1153637086
+      Crops_Tileset - copia_67: 2132412532
+      Crops_Tileset - copia_68: -2135285485
+      Crops_Tileset - copia_69: 840524839
+      Crops_Tileset - copia_7: 2570901496739941006
+      Crops_Tileset - copia_70: -694942739
+      Crops_Tileset - copia_71: -1059941805
+      Crops_Tileset - copia_8: 5949584222221038507
+      Crops_Tileset - copia_9: -28671576504056946
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

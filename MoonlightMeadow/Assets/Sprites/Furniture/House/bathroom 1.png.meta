@@ -1,0 +1,6203 @@
+fileFormatVersion: 2
+guid: 3c7107a883ad53c459b8ba09a9b4f3f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3521427111303423466
+    second: bathroom_0
+  - first:
+      213: 6983358275279283047
+    second: bathroom_1
+  - first:
+      213: 1169091165138729141
+    second: bathroom_2
+  - first:
+      213: 3300606671451264670
+    second: bathroom_3
+  - first:
+      213: 3155690606720968461
+    second: bathroom_4
+  - first:
+      213: -3116974730507115604
+    second: bathroom_5
+  - first:
+      213: 2983476358436010028
+    second: bathroom_6
+  - first:
+      213: 2797578448776851711
+    second: bathroom_7
+  - first:
+      213: 180818828194593506
+    second: bathroom_8
+  - first:
+      213: -5181877912138065124
+    second: bathroom_9
+  - first:
+      213: -4309067922572259023
+    second: bathroom_10
+  - first:
+      213: -4719920441953140294
+    second: bathroom_11
+  - first:
+      213: 424640374056618819
+    second: bathroom_12
+  - first:
+      213: 3360226103960135051
+    second: bathroom_13
+  - first:
+      213: -9174244067029899023
+    second: bathroom_14
+  - first:
+      213: -150545708790703871
+    second: bathroom_15
+  - first:
+      213: -196028476582618900
+    second: bathroom_16
+  - first:
+      213: 2889209925469297122
+    second: bathroom_17
+  - first:
+      213: -2141553197332089939
+    second: bathroom_18
+  - first:
+      213: -5807677388573095222
+    second: bathroom_19
+  - first:
+      213: 2235141617128906387
+    second: bathroom_20
+  - first:
+      213: 4460989859543285799
+    second: bathroom_21
+  - first:
+      213: -573019512453249434
+    second: bathroom_22
+  - first:
+      213: 4486309160106536113
+    second: bathroom_23
+  - first:
+      213: 1822452513176793564
+    second: bathroom_24
+  - first:
+      213: -3446809160783019374
+    second: bathroom_25
+  - first:
+      213: 7126325851185246801
+    second: bathroom_26
+  - first:
+      213: 6089186949661689324
+    second: bathroom_27
+  - first:
+      213: 4725955208724985027
+    second: bathroom_28
+  - first:
+      213: 1440792775419611805
+    second: bathroom_29
+  - first:
+      213: -3773997810166076653
+    second: bathroom_30
+  - first:
+      213: 1395539743248188897
+    second: bathroom_31
+  - first:
+      213: -2702064901767447229
+    second: bathroom_32
+  - first:
+      213: 3113594521541892790
+    second: bathroom_33
+  - first:
+      213: -1091449320473632872
+    second: bathroom_34
+  - first:
+      213: 2892984793159275152
+    second: bathroom_35
+  - first:
+      213: 5370414570755183422
+    second: bathroom_36
+  - first:
+      213: 5810531500438784143
+    second: bathroom_37
+  - first:
+      213: -474781495250701013
+    second: bathroom_38
+  - first:
+      213: 7933173487101151337
+    second: bathroom_39
+  - first:
+      213: 9000836940767001015
+    second: bathroom_40
+  - first:
+      213: -1627308405031128750
+    second: bathroom_41
+  - first:
+      213: 4442640414240506724
+    second: bathroom_42
+  - first:
+      213: 8815848776762648347
+    second: bathroom_43
+  - first:
+      213: 8013304299959938227
+    second: bathroom_44
+  - first:
+      213: -2641545288114440883
+    second: bathroom_45
+  - first:
+      213: 2729284867725980163
+    second: bathroom_46
+  - first:
+      213: 1119004141917789969
+    second: bathroom_47
+  - first:
+      213: -7545728214667223796
+    second: bathroom_48
+  - first:
+      213: -6847711137159085346
+    second: bathroom_49
+  - first:
+      213: -5274934573986297032
+    second: bathroom_50
+  - first:
+      213: 8149663984789321154
+    second: bathroom_51
+  - first:
+      213: 376341611494484026
+    second: bathroom_52
+  - first:
+      213: -7402441170518086807
+    second: bathroom_53
+  - first:
+      213: -3618473741146760992
+    second: bathroom_54
+  - first:
+      213: 5793780039374090745
+    second: bathroom_55
+  - first:
+      213: -6864223818152325343
+    second: bathroom_56
+  - first:
+      213: 1798542236849769281
+    second: bathroom_57
+  - first:
+      213: 7412863424183015083
+    second: bathroom_58
+  - first:
+      213: -5736792850327261915
+    second: bathroom_59
+  - first:
+      213: -1396869465526769540
+    second: bathroom_60
+  - first:
+      213: 174522009667385097
+    second: bathroom_61
+  - first:
+      213: -4816169149342624815
+    second: bathroom_62
+  - first:
+      213: 5413683168192136658
+    second: bathroom_63
+  - first:
+      213: 1025496271039190004
+    second: bathroom_64
+  - first:
+      213: 6290739665706466581
+    second: bathroom_65
+  - first:
+      213: -3336414294272976138
+    second: bathroom_66
+  - first:
+      213: -1734082123484466749
+    second: bathroom_67
+  - first:
+      213: -4893504443061032631
+    second: bathroom_68
+  - first:
+      213: 5836616644020981534
+    second: bathroom_69
+  - first:
+      213: 3933595058853168296
+    second: bathroom_70
+  - first:
+      213: -5426956464466165964
+    second: bathroom_71
+  - first:
+      213: 9113323916143035700
+    second: bathroom_72
+  - first:
+      213: 8254730862847538980
+    second: bathroom_73
+  - first:
+      213: -587775324164326081
+    second: bathroom_74
+  - first:
+      213: -232232329041122239
+    second: bathroom_75
+  - first:
+      213: -7438908405536102823
+    second: bathroom_76
+  - first:
+      213: 1363294769866007018
+    second: bathroom_77
+  - first:
+      213: 3485604450946394154
+    second: bathroom_78
+  - first:
+      213: 2557977880877122602
+    second: bathroom_79
+  - first:
+      213: -8047973342095045783
+    second: bathroom_80
+  - first:
+      213: -4930245791181673880
+    second: bathroom_81
+  - first:
+      213: 5540916498899014453
+    second: bathroom_82
+  - first:
+      213: -3124845353575135881
+    second: bathroom_83
+  - first:
+      213: -538876462873433972
+    second: bathroom_84
+  - first:
+      213: 7278223458438899380
+    second: bathroom_85
+  - first:
+      213: -7962852476369412120
+    second: bathroom_86
+  - first:
+      213: 5807454485409629481
+    second: bathroom_87
+  - first:
+      213: 3738749579193186895
+    second: bathroom_88
+  - first:
+      213: -3031793974779559754
+    second: bathroom_89
+  - first:
+      213: -695562670921234072
+    second: bathroom_90
+  - first:
+      213: -5061696851993700937
+    second: bathroom_91
+  - first:
+      213: 1346985650875805153
+    second: bathroom_92
+  - first:
+      213: -7289710596799995581
+    second: bathroom_93
+  - first:
+      213: 7715323687896257440
+    second: bathroom_94
+  - first:
+      213: 2026071436162938477
+    second: bathroom_95
+  - first:
+      213: 5431604124772259624
+    second: bathroom_96
+  - first:
+      213: -217707191294765253
+    second: bathroom_97
+  - first:
+      213: 3234935071821025555
+    second: bathroom_98
+  - first:
+      213: 7316570874536655726
+    second: bathroom_99
+  - first:
+      213: 8104309932977387472
+    second: bathroom_100
+  - first:
+      213: -8908159015987777156
+    second: bathroom_101
+  - first:
+      213: 2672439739132968781
+    second: bathroom_102
+  - first:
+      213: -1505335252984457826
+    second: bathroom_103
+  - first:
+      213: 4457194202189018330
+    second: bathroom_104
+  - first:
+      213: 2217848583343611422
+    second: bathroom_105
+  - first:
+      213: 5108486547116215677
+    second: bathroom_106
+  - first:
+      213: 508041333411124191
+    second: bathroom_107
+  - first:
+      213: -1175206741449623136
+    second: bathroom_108
+  - first:
+      213: -9057392613874128506
+    second: bathroom_109
+  - first:
+      213: 3987465097067172599
+    second: bathroom_110
+  - first:
+      213: -2664230566666453769
+    second: bathroom_111
+  - first:
+      213: 667968951458825530
+    second: bathroom_112
+  - first:
+      213: 8335247278942997907
+    second: bathroom_113
+  - first:
+      213: 6204370339513893361
+    second: bathroom_114
+  - first:
+      213: -8289235774932798106
+    second: bathroom_115
+  - first:
+      213: -7050107136102697718
+    second: bathroom_116
+  - first:
+      213: 151836135026451763
+    second: bathroom_117
+  - first:
+      213: -1183202215358008609
+    second: bathroom_118
+  - first:
+      213: -865173252419484659
+    second: bathroom_119
+  - first:
+      213: 6765734227450393316
+    second: bathroom_120
+  - first:
+      213: 5018419292814264458
+    second: bathroom_121
+  - first:
+      213: 579227761468346040
+    second: bathroom_122
+  - first:
+      213: 6600909186829834699
+    second: bathroom_123
+  - first:
+      213: -4317750923361101196
+    second: bathroom_124
+  - first:
+      213: -3091068453763117757
+    second: bathroom_125
+  - first:
+      213: -7110326238486090430
+    second: bathroom_126
+  - first:
+      213: 5660653614969093355
+    second: bathroom_127
+  - first:
+      213: 4976413952950643950
+    second: bathroom_128
+  - first:
+      213: -8005601462132355107
+    second: bathroom_129
+  - first:
+      213: -5887304505560169627
+    second: bathroom_130
+  - first:
+      213: 8756042791401107305
+    second: bathroom_131
+  - first:
+      213: -4753940962193877316
+    second: bathroom_132
+  - first:
+      213: 9017739692460465495
+    second: bathroom_133
+  - first:
+      213: -4867561315264965205
+    second: bathroom_134
+  - first:
+      213: -7818336469956410991
+    second: bathroom_135
+  - first:
+      213: 7376459111519218712
+    second: bathroom_136
+  - first:
+      213: -3309178828424695356
+    second: bathroom_137
+  - first:
+      213: -6813765540104725997
+    second: bathroom_138
+  - first:
+      213: -5973352203279011864
+    second: bathroom_139
+  - first:
+      213: -6929953809081619342
+    second: bathroom_140
+  - first:
+      213: 1084656877994353529
+    second: bathroom_141
+  - first:
+      213: -6254219230587097104
+    second: bathroom_142
+  - first:
+      213: 6885686462634209612
+    second: bathroom_143
+  - first:
+      213: -5625838047234137490
+    second: bathroom_144
+  - first:
+      213: -5097022655548371064
+    second: bathroom_145
+  - first:
+      213: 2721413165222503572
+    second: bathroom_146
+  - first:
+      213: 2485281039253885896
+    second: bathroom_147
+  - first:
+      213: 957364265340588446
+    second: bathroom_148
+  - first:
+      213: -3043127466796877678
+    second: bathroom_149
+  - first:
+      213: 7705556185953153676
+    second: bathroom_150
+  - first:
+      213: -1233697971911794032
+    second: bathroom_151
+  - first:
+      213: 3981004383387702055
+    second: bathroom_152
+  - first:
+      213: 9138171279112752850
+    second: bathroom_153
+  - first:
+      213: 5736304491962179187
+    second: bathroom_154
+  - first:
+      213: 8958333159064452197
+    second: bathroom_155
+  - first:
+      213: 236012660231071087
+    second: bathroom_156
+  - first:
+      213: 5334802191052570187
+    second: bathroom_157
+  - first:
+      213: 990874453969199661
+    second: bathroom_158
+  - first:
+      213: -2486486362487206543
+    second: bathroom_159
+  - first:
+      213: 7124721356920962809
+    second: bathroom_160
+  - first:
+      213: -1629236537749725338
+    second: bathroom_161
+  - first:
+      213: -8317553606081559226
+    second: bathroom_162
+  - first:
+      213: -3436779460541127830
+    second: bathroom_163
+  - first:
+      213: -3794992115147701302
+    second: bathroom_164
+  - first:
+      213: 6006074303271904684
+    second: bathroom_165
+  - first:
+      213: 4547324844843943254
+    second: bathroom_166
+  - first:
+      213: 867762992252188939
+    second: bathroom_167
+  - first:
+      213: -6162902550965151865
+    second: bathroom_168
+  - first:
+      213: -7481025732600541522
+    second: bathroom_169
+  - first:
+      213: -6367223912614322057
+    second: bathroom_170
+  - first:
+      213: 656819911707354367
+    second: bathroom_171
+  - first:
+      213: -1169629703261195046
+    second: bathroom_172
+  - first:
+      213: 683152736998422698
+    second: bathroom_173
+  - first:
+      213: 8906176076837572814
+    second: bathroom_174
+  - first:
+      213: 5677295583183895912
+    second: bathroom_175
+  - first:
+      213: 2841893561695503552
+    second: bathroom_176
+  - first:
+      213: -2984973496909945327
+    second: bathroom_177
+  - first:
+      213: -7182985612230926626
+    second: bathroom_178
+  - first:
+      213: 532720646658395510
+    second: bathroom_179
+  - first:
+      213: -9128806541564201662
+    second: bathroom_180
+  - first:
+      213: -1930141654516462902
+    second: bathroom_181
+  - first:
+      213: -4433018583722503104
+    second: bathroom_182
+  - first:
+      213: -4971935373088951342
+    second: bathroom_183
+  - first:
+      213: 1276526506570921113
+    second: bathroom_184
+  - first:
+      213: -6749045345275266126
+    second: bathroom_185
+  - first:
+      213: -3375948395568612293
+    second: bathroom_186
+  - first:
+      213: 4326073440345355976
+    second: bathroom_187
+  - first:
+      213: 3032941274071011890
+    second: bathroom_188
+  - first:
+      213: -8492051941478776915
+    second: bathroom_189
+  - first:
+      213: -7490427409313294452
+    second: bathroom_190
+  - first:
+      213: -844044223122731786
+    second: bathroom_191
+  - first:
+      213: 3753995477391653291
+    second: bathroom_192
+  - first:
+      213: -4438416058473771937
+    second: bathroom_193
+  - first:
+      213: -9072081090606756403
+    second: bathroom_194
+  - first:
+      213: 1678585329597593151
+    second: bathroom_195
+  - first:
+      213: 4626753149104507468
+    second: bathroom_196
+  - first:
+      213: 5565337115252095600
+    second: bathroom_197
+  - first:
+      213: 7602164672459796481
+    second: bathroom_198
+  - first:
+      213: 3489218188376598608
+    second: bathroom_199
+  - first:
+      213: -8231015048872743139
+    second: bathroom_200
+  - first:
+      213: 3232648929291482603
+    second: bathroom_201
+  - first:
+      213: 857229530216531545
+    second: bathroom_202
+  - first:
+      213: -1531879231943873542
+    second: bathroom_203
+  - first:
+      213: 405603290029567800
+    second: bathroom_204
+  - first:
+      213: 5242421111413318556
+    second: bathroom_205
+  - first:
+      213: -6121939109383586002
+    second: bathroom_206
+  - first:
+      213: -2147785265782187504
+    second: bathroom_207
+  - first:
+      213: -421977871104953652
+    second: bathroom_208
+  - first:
+      213: -6841529752410979609
+    second: bathroom_209
+  - first:
+      213: 6635799699513173141
+    second: bathroom_210
+  - first:
+      213: -8009885785528303873
+    second: bathroom_211
+  - first:
+      213: 6176186926083189144
+    second: bathroom_212
+  - first:
+      213: 2328773746431087238
+    second: bathroom_213
+  - first:
+      213: 8997933256166654021
+    second: bathroom_214
+  - first:
+      213: 3509810051026747923
+    second: bathroom_215
+  - first:
+      213: 5815707061937325967
+    second: bathroom_216
+  - first:
+      213: 1991476154168641873
+    second: bathroom_217
+  - first:
+      213: -6420057445427295500
+    second: bathroom_218
+  - first:
+      213: 1574847256837646002
+    second: bathroom_219
+  - first:
+      213: -7356419028613063679
+    second: bathroom_220
+  - first:
+      213: 2221866735951495447
+    second: bathroom_221
+  - first:
+      213: 1004725564141560977
+    second: bathroom_222
+  - first:
+      213: 2441787922496625095
+    second: bathroom_223
+  - first:
+      213: -3403789110819503341
+    second: bathroom_224
+  - first:
+      213: 7055509426633935647
+    second: bathroom_225
+  - first:
+      213: -5735770505961557275
+    second: bathroom_226
+  - first:
+      213: 6548442160137628769
+    second: bathroom_227
+  - first:
+      213: -7598696206586747162
+    second: bathroom_228
+  - first:
+      213: 2607442937427869404
+    second: bathroom_229
+  - first:
+      213: -3249707931931668100
+    second: bathroom_230
+  - first:
+      213: -8922175237968358237
+    second: bathroom_231
+  - first:
+      213: 3510305338192571478
+    second: bathroom_232
+  - first:
+      213: -982826389376288868
+    second: bathroom_233
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bathroom 1_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 311
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6784684465e0cc4ab2a228f71b37259
+      internalID: -1825668934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 311
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f179c15ff38909148b323b6fdf60de97
+      internalID: -2055490999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 311
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd1eb57301ee0e4892a336e4ec4f900
+      internalID: -1617090558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 311
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e284b9d9f034a094f9e6c88d59bee3b9
+      internalID: -2119492281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 311
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14497a096235a974eb17dfe81ec1a2a7
+      internalID: -1701082372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 311
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6283622df9d89f4884446b5bf8e1c1f
+      internalID: 1484105729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 311
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f204d6d4df59d149adc70a3dc5ddb55
+      internalID: -2045466167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_7
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 311
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e535e8c649dd04a914a341f3268f47
+      internalID: 1910181713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_8
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 311
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8695f4aa099f1b4da5df4abb1b17022
+      internalID: -2057921561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 311
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c0bc3bd3be29d43b451438d8383e26
+      internalID: 722045986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_10
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 311
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c85cca429ae23547b29dbd065878377
+      internalID: 680887827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_11
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 311
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499684f7eb844bb48bd0446b9b71bb1e
+      internalID: 694116219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_12
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 311
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a917df03129b84f97f422d67c4cdf1
+      internalID: -1111677787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_13
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 311
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd0a995632f81544a6192d2f47c975a
+      internalID: 1181849977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_14
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 311
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51c129b5c30f7f42a038005289a63a1
+      internalID: 229087630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_15
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 311
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046386a98ab1ee24182cb0d892703efa
+      internalID: 547739420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_16
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 311
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8039de44c2422c44af66a2c511f7cb8
+      internalID: 1069890051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_17
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 311
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca29999aa3f77b4f9d3495d4740adbd
+      internalID: -143979407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_18
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 311
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78adeb0488da1a428af6bdcbf18464a
+      internalID: -930651549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_19
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 311
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545a3f39ae842824ba316b2c9bd86702
+      internalID: -1898296499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_20
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 311
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f452d21c564958448e55571720ea43a
+      internalID: 1492032769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_21
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 311
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05367b5b38b1dd419db5722f4d7217c
+      internalID: 1006223930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_22
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 311
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451764b7488f9cd4b9cb417dff6126de
+      internalID: 1266562016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_23
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 311
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f151a8aa4db9f3d40963ce9c5933e1b3
+      internalID: -195595622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_24
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 311
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee9ab459a8b6764eb0b27a2cccb4e9c
+      internalID: -895816512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_25
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 311
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e08605ad4527c4199ffbfb844b4ef7
+      internalID: -382442815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_26
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 288
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b183d468ed09fa4a9da8df395742f81
+      internalID: -1080893127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_27
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 288
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f050f87d6b720004bb276af575e2d8b3
+      internalID: -1061719915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_28
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 288
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9172c9959ee907a40b435e89612d3d47
+      internalID: -1209495030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_29
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 288
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c576450c60b794c4c9cc4950c1253e6f
+      internalID: 1456786234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_30
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 288
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc347db08f2abb46a9abef15436e457
+      internalID: 649757732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_31
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 288
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa10ecbc9873ef448b1623e92395591c
+      internalID: -906593632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_32
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 288
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7705c0cdebc07f04cbf6f42b812ee3f1
+      internalID: -1458401871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_33
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 288
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db231e0c281684441b29e105935f7770
+      internalID: -1702420433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_34
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 288
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4ed5b0c1e545a4483d91164c9058d2
+      internalID: -1610287056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_35
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 288
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d72c1b88f75ad4da5ab80d094c461a
+      internalID: 392973087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_36
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 288
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854657c30ec8c4c439c095a639ac1b2b
+      internalID: 1789773628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_37
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 288
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079909425ab646f4db85827f83aa013a
+      internalID: -614435068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_38
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 288
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4d90c445f53d440807359096d923b8
+      internalID: -775739671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_39
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 272
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece3e8e07cc5125419dbdade87d731de
+      internalID: 1312805508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_40
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 272
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce42adcae88eba74bb19953aa55af0a3
+      internalID: -700819865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_41
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 272
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02acc1f40e77a3746820a82947757ad8
+      internalID: -671607942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_42
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 272
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7135242cfec874d989994482e215e3
+      internalID: -1496521972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_43
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 272
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8664e00d71c92584ab50b15871eeb96c
+      internalID: -1872125374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_44
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 272
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb6e2f9154112144b741c26f6dfa5c0
+      internalID: 487873804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_45
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 272
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff1d3ca576f4b745a57581323fc16de
+      internalID: -1450260366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_46
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 272
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cb9ebed6cb4ae40bb443f5503b4769
+      internalID: -477755852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_47
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 272
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4ac58c06f854a45b0fe11ce5fd571a
+      internalID: -1166777827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_48
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 272
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab883ba2e9a5fe74b8731fa2b9d8891d
+      internalID: -975088368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_49
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 272
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067751bc096c8a54f8f5aad89288f599
+      internalID: -1991646566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_50
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 272
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ddcbf3f153c2b4285908c699ae5f2e
+      internalID: 1231845662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_51
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 272
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e8358745d6c7347806407600c0f423
+      internalID: 735009277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_52
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 256
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a62c66f266a5d419bf2115daca68a0
+      internalID: -1209374359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_53
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 256
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249426838d8b9234b8f5afe2ee628e68
+      internalID: -612254797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_54
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 256
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3210136d80c404cad00fb40b31e212
+      internalID: 1812823585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_55
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 256
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bceeb8d26b91fe43acbe9046d2dd314
+      internalID: -941632949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_56
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 256
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c89c5bbe0ebb6942aee626dbcdd9104
+      internalID: -797567977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_57
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 256
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74094a2f43c2c9543854d52d0989b429
+      internalID: 519833456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_58
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 256
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337485653f7acfe4689f97a44cde5ec8
+      internalID: 725114670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_59
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 256
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d1534230f85844683db86a37298949
+      internalID: 774110484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_60
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 256
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0301866455aba4b869d271b25250d0
+      internalID: 663863297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_61
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 256
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bb49d761a8d9a44a75645b4be8bfa2
+      internalID: 1565854307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_62
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 256
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcda1988993cc84d84adaa35301c592
+      internalID: 814678674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_63
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 256
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a76235d6c1705143a2ab44d0127fff2
+      internalID: -1006192705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_64
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 256
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae36936cef055a46b0fd7548228fe71
+      internalID: -352170813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_65
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 240
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99475ca6cc572f14faf7170dc2d7bfb9
+      internalID: 1359757374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_66
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 240
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d41712ef89a3bf4d8ec1dd86ddec38e
+      internalID: 738112810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_67
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 240
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72223ece39eb804d90290a811aca296
+      internalID: 1317141375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_68
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 240
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347f83bde1ea9664a94b1fff714d570a
+      internalID: -1482183132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_69
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 240
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf32e985b7c54f48bb85ca8633126ff
+      internalID: 1815359955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_70
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 240
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cbab4ee29ee5a4f8aed5dc0c595632
+      internalID: -853564978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_71
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 240
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92ac389ca81a7945b6b291947d66e3d
+      internalID: -758271686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_72
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 240
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc2c64ba565d3a44b22f543d3554c1b
+      internalID: -350343383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_73
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 240
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07637220a5378c64d87da690ea959076
+      internalID: 934036621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_74
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 240
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fde2ee81502664aac2948ea1be8db8
+      internalID: 209184857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_75
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 240
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efd3482d917d474b9f54b5d521245b3
+      internalID: 850440590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_76
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 240
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4596abcc972f33c49bdb6dfcc3068f82
+      internalID: 1247390620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_77
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 240
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1e0cc0a5d51ac48b267fb9332bacf4
+      internalID: -452622296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_78
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 224
+        width: 192
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9eb77163e3fd742acf675d867cf0b8
+      internalID: -1716257302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 80
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e909a9e14d627ee47ae6617eed50b352
+      internalID: 1945062391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_80
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 192
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfe752c454d6224d94cc465c518b662
+      internalID: 1752246937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_81
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 192
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a363df1c4c9f7c4bbe8116753901f77
+      internalID: -771704906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_82
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 192
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a78e9310ad95354ea006b6d9fd25525
+      internalID: 466493822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_83
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 192
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad0b911050e9c4418544028bc9ee6c6
+      internalID: -1106463231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_84
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 192
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ff15df7a51da04ea68530eb82c1933
+      internalID: -768692944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_85
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 192
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526adc2f37cb3584e8099d6e17f06f51
+      internalID: -1493568923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_86
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 192
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82a4692424e3f043b2f6669577e1576
+      internalID: -1447892148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_87
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 192
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de801035498578c4fad76fbef779ac25
+      internalID: 910719009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_88
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 192
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8177f2faf6b52cc419392de02b669f3f
+      internalID: -308507264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_89
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 192
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cf47e8656eeea428dc1ce02da5f7ee
+      internalID: 2077108681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_90
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 192
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2d55f1c745e00439424494f26b6414
+      internalID: 2065601518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_91
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 192
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48796195f6b40744a414c45d01cd55b
+      internalID: -2097140496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_92
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 192
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19dc170699a4de340bc229260cc9fbea
+      internalID: 1323050804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_93
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 192
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18095a0de94d724e85223fca70225e1
+      internalID: -512299241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_94
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 192
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc9a57acca8be245b3c1f581b5bb8df
+      internalID: 1959406562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_95
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 192
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bd98bfe6795484d8701db77e0d6615
+      internalID: 1609480843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_96
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 192
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431c995f00e5e314ba68046c8b42607f
+      internalID: -620448053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_97
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 192
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5c3ec2824461845baa045b7fb3adaa
+      internalID: 1239870610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_98
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 192
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d8152979a36ca4d978f92730b9dcd0
+      internalID: -1127008779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_99
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 192
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b8dc16c5eddd24f9833312025dc325
+      internalID: 1464707182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_100
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 192
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05d81aa54e80e542942f7cb91fe5e80
+      internalID: 214191340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_101
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 192
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c225018ba29fccb449f7f99f28e58338
+      internalID: 1958493824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_102
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 192
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0faf8bb8b0544d04db46c115652bc631
+      internalID: -497661812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_103
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 192
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf50276f69eb28d43967f14e9155d233
+      internalID: 1209948820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_104
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 184
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350434c6a5c86c24db5115aa3d637954
+      internalID: -201645961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_105
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 184
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8728a8866172248a5dfdccc8556090
+      internalID: 1098195767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32191d6dffdc4a44295c46d3109d95c6
+      internalID: 1436319299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_107
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 160
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f84ab602b66d0643a3ea5445c19d80e
+      internalID: 855759542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_108
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199b36c57789dc149b1f6a6f2cacb1ee
+      internalID: 689663005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_109
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 160
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5dfd5866613b5a4f9407f0829c1ef34
+      internalID: 1264455520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179afbe5243514c49bd026138176f5a3
+      internalID: 392268762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_111
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 160
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9504c522a0069749a5f41da9e11f5f5
+      internalID: -405907924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_112
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2045ee9a6b3e14db9518f9e254114f
+      internalID: 1435356936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_113
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 160
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666cdd8536901d142914b2e0fd534989
+      internalID: -341409824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_114
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187d79fa8a181cb44a285c3fdc815016
+      internalID: 542827212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_115
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 160
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f450598933542d419759a3359394baf
+      internalID: 1102195662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_116
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2423aab881718a4b8a340c304030c3e
+      internalID: -1169147186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_117
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 160
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcea8d80a174ce449d903f17cf5601d
+      internalID: 580528896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_118
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 168
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb12c6e9559916545bf78a541d620443
+      internalID: 15023659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_119
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 168
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af92edd3dfbcb24b96fb241f70b68c6
+      internalID: 1298087689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_120
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 152
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c7ba5cb19ac1e45ae8b629aae4d597
+      internalID: 1333574140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_121
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 152
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef2b26cb6af7984a8b5da452dec3567
+      internalID: -1978158687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_122
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915b6b6817f9c004f906134602b7a44a
+      internalID: 1966837727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_123
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 118
+        width: 63
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f668b88573e484bad6b9f8f4300754
+      internalID: 1423330191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_124
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 118
+        width: 96
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bf630fad06b6246959ef01111e0a38
+      internalID: 1250085697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_125
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 136
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204e68d934da5b046955b7e16b0021e1
+      internalID: -1271302079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_126
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 136
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03246ddc5fb56894d8f7b1db1674bbdf
+      internalID: -1602149059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_127
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f32165f2dc34f142aa82cb2ca865417
+      internalID: -704480436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_128
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 118
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009d1b907a73102468740e8f24294ff2
+      internalID: -1817804133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_129
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 118
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dac3516c907a24ba1454f300d98412
+      internalID: -1953941085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_130
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 118
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca28f8f6a3e3d34a97f5bef6465bee6
+      internalID: -258507954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_131
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 118
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea687d24a518a9419b9358171cbba04
+      internalID: -1212497597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_132
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 118
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44c9e13fccc93144b41514eb55e50a2
+      internalID: 1267287315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_133
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 118
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4588cf005523aa443acb5b072498f790
+      internalID: -828680540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_134
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 118
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a331f233891a894e9f5e06697c73956
+      internalID: 275301768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_135
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 118
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f974fa65ed211974aaf8b80a2086da2f
+      internalID: -953130139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd0360008a178a4a91504fc032deab9
+      internalID: -1651086419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_137
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 102
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24198b6881ee1b94a94aa14c69a12e01
+      internalID: 835330646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_138
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 102
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1789f79747793d54c9c0a9fa33b89c6f
+      internalID: -1178155994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_139
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 102
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838d3ea46e28b0c47af19c22cb538ed4
+      internalID: -1889420623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_140
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 102
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae1dfa8a5514c84c96d55cce6d785f9
+      internalID: -922686999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_141
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 102
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c4247738c162343b77dc09b42fb380
+      internalID: -909729177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_142
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 102
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27066ff0601d33b4ba1741d0d7bd2a1e
+      internalID: 1611091062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_143
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 102
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66788aa0a936a4a42a8c9088e429fb8f
+      internalID: -1746309504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_144
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 102
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9018904feaaf9e4f92fc457775c5a06
+      internalID: 295168340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_145
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 102
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea34720ac855bd4ca7841db385ff886
+      internalID: 65336367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_146
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 102
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf1d8fc51c7977438675d5dfb551aaf
+      internalID: 934068755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_147
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 102
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cead47ebe3f0c604fbcf819f3184c205
+      internalID: 196048050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_148
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 102
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143631742e4e84e4a9d56323bdd37231
+      internalID: 1578542206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_149
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 102
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf74c102d145d004f83c9bc269abcf8d
+      internalID: 1434897319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6535cc05891204ebe3d877ae79e864
+      internalID: 32242687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_151
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 86
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84f11ba7a35fa9419dbd6ce77d03e32
+      internalID: -339977557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_152
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 86
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a078d1b84283b9d408c8469c9515244b
+      internalID: -1293206193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_153
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 86
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9a3dada1bbd054b9098fce66a7c177
+      internalID: -1995796710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_154
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 86
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c9b7343049fe14a8a14034e8eb8e11
+      internalID: -1106968299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_155
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 86
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c86aaf0547dba4397484d79278114d
+      internalID: 1469152249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_156
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 86
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4934ceb65327fbc4d97b7e5249b4c5b4
+      internalID: -65415692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_157
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 86
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dea4da49e37c7744bc6f680bb9ef041
+      internalID: 789712396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_158
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 86
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a77ee07b8d7b424fbd40dc3f6764664
+      internalID: 662941715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_159
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 86
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49620a7b57068640ae9aefe004fbc89
+      internalID: -792719839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_160
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 86
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d65b8ddaf7c7e47accd73780b1f789
+      internalID: -1686084689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_161
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 86
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5cfab436c18d148b279941a8f4e7b0
+      internalID: 2121361223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_162
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 86
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c788f698cb09317449356a2cc7136711
+      internalID: 7479336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_163
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 86
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df71b7944ae60da48b580f6f251f767d
+      internalID: 646717887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_164
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b00f951819eae84e9bef9439e42c44a
+      internalID: 746376912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_165
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 70
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633c0e0a221c3d94d8e1e45cb4031a78
+      internalID: -923968474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_166
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 70
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1c932e24067b149a4af7299ea33908
+      internalID: -520477161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_167
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 70
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c521096a0f04154fa8d989715a94ed6
+      internalID: -202602341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_168
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 70
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee75a0ce64bf9f24e9493a38dd3142ae
+      internalID: 1394733291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_169
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 70
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c0102308f04c441b5af25fc5e269dc
+      internalID: -207529142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_170
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 70
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c9f53f961283a458504a29209e34b2
+      internalID: 1207592997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_171
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 70
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71b8c52564037341aafb4558944075f
+      internalID: 253531226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_172
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 70
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c5abbe61854f54ab720833ef558c31
+      internalID: 445979897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_173
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 70
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df957287df92bfa458ae2469b39c60e6
+      internalID: -982100698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_174
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 70
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3ef7be814e25b439f683eb8134770d
+      internalID: -1025637582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_175
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 70
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7af2b51e59ab7e488889d69ce2fef6b
+      internalID: -1870150437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_176
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 70
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9755305dcfa4740a8b180cb214b608
+      internalID: -2042894833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_177
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 70
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3971e4cf114d2364da4df43d33f6d7a7
+      internalID: 1806619028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_178
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 49
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4fda93d301654459e151186fd2aed0
+      internalID: 1625034147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_179
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 49
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fdf7ac1200dc3f459aead521e6e9375
+      internalID: -330204808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_180
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 49
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5feda598c90cba44e92d2d3be9d15fd1
+      internalID: 1447519157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_181
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 49
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45cc6749a01cfd49aa56c652e1dd613
+      internalID: 12082256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_182
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 49
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47238d1e9dc0754d80b930fbd0c0c1d
+      internalID: -1559123691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_183
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 49
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c781e126384b4b64d967c01d5cdfa8c5
+      internalID: 670964163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_184
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 49
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d530f2e321157a4b93a4c2ea066e261
+      internalID: 1986307067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_185
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e222253651964e4f83367ce40590499
+      internalID: 436296686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_186
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71df57128241824e828020404a584cd
+      internalID: 313133803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_187
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7355c26948f0d4e9175126626e9a5c
+      internalID: 523554961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_188
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35968b5d7249e354bae1d6e9ff23598e
+      internalID: -174441024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_189
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dba84ef4b816ed4caa136520ea9d404
+      internalID: 227937391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_190
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266e63517017e5f428dffd199a06cb90
+      internalID: 1380406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_191
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b947a5217032144ba87192dca9e1392
+      internalID: -628702070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_192
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73f121860ee1dc44a5400237adc6006
+      internalID: -1781181066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_193
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb93606868126064887ecb4a1815ffae
+      internalID: -1216594204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_194
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222edcf95660eb441b18bd0de8e6cfe2
+      internalID: 497949044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_195
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 32
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa22be78ea8b4d44cb198a239b8e0df6
+      internalID: 491002472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_196
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e36d059ee3bef4aa62742e21b1b02f
+      internalID: -1134025029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_197
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 32
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a809041b3233cba40ae399264a32e3e2
+      internalID: -508842227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_198
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f35459c15110c499b36ef991c6cbc3
+      internalID: -571862357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_199
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 32
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a757892e2f72b4b41bc661b921f773fc
+      internalID: 753403439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_200
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92824d10602a8241bf61b05224dcc4e
+      internalID: -1189663523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_201
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 32
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3221648c9bccc44b00c541b1aab7e7
+      internalID: 1652110117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_202
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8253f318d3f37ea4dbe5f640138ae89f
+      internalID: 355224877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_203
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 32
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6a3f8c3c85413498948d17c707a7bc
+      internalID: 685241934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_204
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18f4668e111a124ea68a428b5f8cb73
+      internalID: -872137403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_205
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 32
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46de1902fcdf199438915de263695091
+      internalID: 230092378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_206
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 33
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4f502e3073acb439488959569d2bdd
+      internalID: -404398646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_207
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 33
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a454dfe61237564598ee0a682b0b7c4
+      internalID: -1252121465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_208
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 33
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2be85eb372c3e44ae819a827c4d259
+      internalID: 1447515380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_209
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 33
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c131a26ec7c424bbc6c51f0265a43a
+      internalID: -615123406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_210
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 33
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27787afd6431dac44ab26cdca741436f
+      internalID: 976165666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_211
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 33
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3728606e26b3cfa47a494c55f282f23e
+      internalID: 460666289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_212
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 33
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba2dd9efa2725f43b2ec1908a544659
+      internalID: 585606698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_213
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b050e30e6f7625a4793e57f39d6ea35a
+      internalID: 1667318483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_214
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d677e3bb1d0e442b7ce3c383807256
+      internalID: -297220971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_215
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e1235393a458540961a5d09de42c86
+      internalID: -543867717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_216
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98475ae12f54e37449ea021cc497555f
+      internalID: 2144373839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_217
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2423defc5117d740a749c5af69edb14
+      internalID: 1621097429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_218
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fcec36ffeb248409776b480632bf0c
+      internalID: 1087219185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_219
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820e6c6db72fe1c43ba3d8b9b1290cbe
+      internalID: 1359411087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_220
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb7a44f4bb86254697720851ee1825b
+      internalID: -1945907406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_221
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 0
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e643eead21e74e45b07aadbac644326
+      internalID: 1739183694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_222
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1758642ea9f62cc4fb480817806452a5
+      internalID: -925466500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_223
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d823d0f37595746985c5f434005068
+      internalID: -1167294176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_224
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 0
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076ff2c99eaec834cbb822695d55daa8
+      internalID: -25125072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_225
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 0
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f950c4360dc5a74788cd09460c17257
+      internalID: 1708107476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_226
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1533479cbc5fe0c4bb105a9eba76d464
+      internalID: 707878282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_227
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fc0e2dd31492b45b3f663d76ca974d
+      internalID: 227371191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_228
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 0
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232349f2510eea343b403a0bacd8b80c
+      internalID: 1069989738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_229
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 0
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cc8743a2eb76e4d89f5616a4085eb9
+      internalID: 1685588229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_230
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 0
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce57b40a86cce7445994ac0d764ebc1c
+      internalID: -337179590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_231
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 0
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bcb7953b4a0d84c9db5b86aacc6595
+      internalID: -2077100520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_232
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 0
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c15b217657d08d4c9b22bff6b1e9c4f
+      internalID: 1141441981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom 1_233
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 0
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e328266ca900f4c9887309e2a6b926
+      internalID: -1220016309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 27b692dfb05878945a776c21755146aa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      bathroom 1_0: -1825668934
+      bathroom 1_1: -2055490999
+      bathroom 1_10: 680887827
+      bathroom 1_100: 214191340
+      bathroom 1_101: 1958493824
+      bathroom 1_102: -497661812
+      bathroom 1_103: 1209948820
+      bathroom 1_104: -201645961
+      bathroom 1_105: 1098195767
+      bathroom 1_106: 1436319299
+      bathroom 1_107: 855759542
+      bathroom 1_108: 689663005
+      bathroom 1_109: 1264455520
+      bathroom 1_11: 694116219
+      bathroom 1_110: 392268762
+      bathroom 1_111: -405907924
+      bathroom 1_112: 1435356936
+      bathroom 1_113: -341409824
+      bathroom 1_114: 542827212
+      bathroom 1_115: 1102195662
+      bathroom 1_116: -1169147186
+      bathroom 1_117: 580528896
+      bathroom 1_118: 15023659
+      bathroom 1_119: 1298087689
+      bathroom 1_12: -1111677787
+      bathroom 1_120: 1333574140
+      bathroom 1_121: -1978158687
+      bathroom 1_122: 1966837727
+      bathroom 1_123: 1423330191
+      bathroom 1_124: 1250085697
+      bathroom 1_125: -1271302079
+      bathroom 1_126: -1602149059
+      bathroom 1_127: -704480436
+      bathroom 1_128: -1817804133
+      bathroom 1_129: -1953941085
+      bathroom 1_13: 1181849977
+      bathroom 1_130: -258507954
+      bathroom 1_131: -1212497597
+      bathroom 1_132: 1267287315
+      bathroom 1_133: -828680540
+      bathroom 1_134: 275301768
+      bathroom 1_135: -953130139
+      bathroom 1_136: -1651086419
+      bathroom 1_137: 835330646
+      bathroom 1_138: -1178155994
+      bathroom 1_139: -1889420623
+      bathroom 1_14: 229087630
+      bathroom 1_140: -922686999
+      bathroom 1_141: -909729177
+      bathroom 1_142: 1611091062
+      bathroom 1_143: -1746309504
+      bathroom 1_144: 295168340
+      bathroom 1_145: 65336367
+      bathroom 1_146: 934068755
+      bathroom 1_147: 196048050
+      bathroom 1_148: 1578542206
+      bathroom 1_149: 1434897319
+      bathroom 1_15: 547739420
+      bathroom 1_150: 32242687
+      bathroom 1_151: -339977557
+      bathroom 1_152: -1293206193
+      bathroom 1_153: -1995796710
+      bathroom 1_154: -1106968299
+      bathroom 1_155: 1469152249
+      bathroom 1_156: -65415692
+      bathroom 1_157: 789712396
+      bathroom 1_158: 662941715
+      bathroom 1_159: -792719839
+      bathroom 1_16: 1069890051
+      bathroom 1_160: -1686084689
+      bathroom 1_161: 2121361223
+      bathroom 1_162: 7479336
+      bathroom 1_163: 646717887
+      bathroom 1_164: 746376912
+      bathroom 1_165: -923968474
+      bathroom 1_166: -520477161
+      bathroom 1_167: -202602341
+      bathroom 1_168: 1394733291
+      bathroom 1_169: -207529142
+      bathroom 1_17: -143979407
+      bathroom 1_170: 1207592997
+      bathroom 1_171: 253531226
+      bathroom 1_172: 445979897
+      bathroom 1_173: -982100698
+      bathroom 1_174: -1025637582
+      bathroom 1_175: -1870150437
+      bathroom 1_176: -2042894833
+      bathroom 1_177: 1806619028
+      bathroom 1_178: 1625034147
+      bathroom 1_179: -330204808
+      bathroom 1_18: -930651549
+      bathroom 1_180: 1447519157
+      bathroom 1_181: 12082256
+      bathroom 1_182: -1559123691
+      bathroom 1_183: 670964163
+      bathroom 1_184: 1986307067
+      bathroom 1_185: 436296686
+      bathroom 1_186: 313133803
+      bathroom 1_187: 523554961
+      bathroom 1_188: -174441024
+      bathroom 1_189: 227937391
+      bathroom 1_19: -1898296499
+      bathroom 1_190: 1380406
+      bathroom 1_191: -628702070
+      bathroom 1_192: -1781181066
+      bathroom 1_193: -1216594204
+      bathroom 1_194: 497949044
+      bathroom 1_195: 491002472
+      bathroom 1_196: -1134025029
+      bathroom 1_197: -508842227
+      bathroom 1_198: -571862357
+      bathroom 1_199: 753403439
+      bathroom 1_2: -1617090558
+      bathroom 1_20: 1492032769
+      bathroom 1_200: -1189663523
+      bathroom 1_201: 1652110117
+      bathroom 1_202: 355224877
+      bathroom 1_203: 685241934
+      bathroom 1_204: -872137403
+      bathroom 1_205: 230092378
+      bathroom 1_206: -404398646
+      bathroom 1_207: -1252121465
+      bathroom 1_208: 1447515380
+      bathroom 1_209: -615123406
+      bathroom 1_21: 1006223930
+      bathroom 1_210: 976165666
+      bathroom 1_211: 460666289
+      bathroom 1_212: 585606698
+      bathroom 1_213: 1667318483
+      bathroom 1_214: -297220971
+      bathroom 1_215: -543867717
+      bathroom 1_216: 2144373839
+      bathroom 1_217: 1621097429
+      bathroom 1_218: 1087219185
+      bathroom 1_219: 1359411087
+      bathroom 1_22: 1266562016
+      bathroom 1_220: -1945907406
+      bathroom 1_221: 1739183694
+      bathroom 1_222: -925466500
+      bathroom 1_223: -1167294176
+      bathroom 1_224: -25125072
+      bathroom 1_225: 1708107476
+      bathroom 1_226: 707878282
+      bathroom 1_227: 227371191
+      bathroom 1_228: 1069989738
+      bathroom 1_229: 1685588229
+      bathroom 1_23: -195595622
+      bathroom 1_230: -337179590
+      bathroom 1_231: -2077100520
+      bathroom 1_232: 1141441981
+      bathroom 1_233: -1220016309
+      bathroom 1_24: -895816512
+      bathroom 1_25: -382442815
+      bathroom 1_26: -1080893127
+      bathroom 1_27: -1061719915
+      bathroom 1_28: -1209495030
+      bathroom 1_29: 1456786234
+      bathroom 1_3: -2119492281
+      bathroom 1_30: 649757732
+      bathroom 1_31: -906593632
+      bathroom 1_32: -1458401871
+      bathroom 1_33: -1702420433
+      bathroom 1_34: -1610287056
+      bathroom 1_35: 392973087
+      bathroom 1_36: 1789773628
+      bathroom 1_37: -614435068
+      bathroom 1_38: -775739671
+      bathroom 1_39: 1312805508
+      bathroom 1_4: -1701082372
+      bathroom 1_40: -700819865
+      bathroom 1_41: -671607942
+      bathroom 1_42: -1496521972
+      bathroom 1_43: -1872125374
+      bathroom 1_44: 487873804
+      bathroom 1_45: -1450260366
+      bathroom 1_46: -477755852
+      bathroom 1_47: -1166777827
+      bathroom 1_48: -975088368
+      bathroom 1_49: -1991646566
+      bathroom 1_5: 1484105729
+      bathroom 1_50: 1231845662
+      bathroom 1_51: 735009277
+      bathroom 1_52: -1209374359
+      bathroom 1_53: -612254797
+      bathroom 1_54: 1812823585
+      bathroom 1_55: -941632949
+      bathroom 1_56: -797567977
+      bathroom 1_57: 519833456
+      bathroom 1_58: 725114670
+      bathroom 1_59: 774110484
+      bathroom 1_6: -2045466167
+      bathroom 1_60: 663863297
+      bathroom 1_61: 1565854307
+      bathroom 1_62: 814678674
+      bathroom 1_63: -1006192705
+      bathroom 1_64: -352170813
+      bathroom 1_65: 1359757374
+      bathroom 1_66: 738112810
+      bathroom 1_67: 1317141375
+      bathroom 1_68: -1482183132
+      bathroom 1_69: 1815359955
+      bathroom 1_7: 1910181713
+      bathroom 1_70: -853564978
+      bathroom 1_71: -758271686
+      bathroom 1_72: -350343383
+      bathroom 1_73: 934036621
+      bathroom 1_74: 209184857
+      bathroom 1_75: 850440590
+      bathroom 1_76: 1247390620
+      bathroom 1_77: -452622296
+      bathroom 1_78: -1716257302
+      bathroom 1_79: 1945062391
+      bathroom 1_8: -2057921561
+      bathroom 1_80: 1752246937
+      bathroom 1_81: -771704906
+      bathroom 1_82: 466493822
+      bathroom 1_83: -1106463231
+      bathroom 1_84: -768692944
+      bathroom 1_85: -1493568923
+      bathroom 1_86: -1447892148
+      bathroom 1_87: 910719009
+      bathroom 1_88: -308507264
+      bathroom 1_89: 2077108681
+      bathroom 1_9: 722045986
+      bathroom 1_90: 2065601518
+      bathroom 1_91: -2097140496
+      bathroom 1_92: 1323050804
+      bathroom 1_93: -512299241
+      bathroom 1_94: 1959406562
+      bathroom 1_95: 1609480843
+      bathroom 1_96: -620448053
+      bathroom 1_97: 1239870610
+      bathroom 1_98: -1127008779
+      bathroom 1_99: 1464707182
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
